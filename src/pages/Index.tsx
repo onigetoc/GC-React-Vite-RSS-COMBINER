@@ -7,12 +7,15 @@ import { Label } from "@/components/ui/label";
 import { Card } from "@/components/ui/card";
 import { Rss, Save } from "lucide-react";
 import { parseRSSFeeds } from "@/lib/rss-combiner";
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { languages } from "@/lib/languages";
 
 const Index = () => {
   const { toast } = useToast();
   const [feedUrls, setFeedUrls] = useState("");
   const [rssContent, setRssContent] = useState("");
   const [isLoading, setIsLoading] = useState(false);
+  const [selectedLanguage, setSelectedLanguage] = useState("fr");
 
   const handleSubmit = async (event) => {
     event.preventDefault();
@@ -37,26 +40,61 @@ const Index = () => {
   };
 
   return (
-    <Card>
-      <form onSubmit={handleSubmit}>
-        <Label htmlFor="feedUrls">RSS Feed URLs</Label>
-        <Input
-          id="feedUrls"
-          value={feedUrls}
-          onChange={(e) => setFeedUrls(e.target.value)}
-          placeholder="Enter RSS feed URLs separated by commas"
-        />
-        <Button type="submit" disabled={isLoading}>
-          {isLoading ? "Loading..." : "Combine RSS Feeds"}
-        </Button>
+    <Card className="p-6 space-y-4">
+      <form onSubmit={handleSubmit} className="space-y-4">
+        <div className="grid gap-4">
+          <div className="space-y-2">
+            <Label htmlFor="feedUrls">URLs des flux RSS</Label>
+            <Input
+              id="feedUrls"
+              value={feedUrls}
+              onChange={(e) => setFeedUrls(e.target.value)}
+              placeholder="Entrez les URLs des flux RSS séparées par des virgules"
+              className="min-h-[80px]"
+            />
+          </div>
+
+          <div className="space-y-2">
+            <Label htmlFor="language">Langue du flux</Label>
+            <Select value={selectedLanguage} onValueChange={setSelectedLanguage}>
+              <SelectTrigger className="w-full bg-background">
+                <SelectValue placeholder="Sélectionnez une langue" />
+              </SelectTrigger>
+              <SelectContent>
+                {languages.map((lang) => (
+                  <SelectItem key={lang.code} value={lang.code}>
+                    {lang.label}
+                  </SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
+          </div>
+
+          <Button type="submit" disabled={isLoading} className="w-full">
+            {isLoading ? (
+              <span className="flex items-center">
+                <Rss className="mr-2 h-4 w-4 animate-spin" />
+                Chargement...
+              </span>
+            ) : (
+              <span className="flex items-center">
+                <Rss className="mr-2 h-4 w-4" />
+                Combiner les flux RSS
+              </span>
+            )}
+          </Button>
+        </div>
       </form>
       {rssContent && (
-        <Textarea
-          value={rssContent}
-          readOnly
-          rows={10}
-          placeholder="Combined RSS feed content will appear here"
-        />
+        <div className="space-y-2">
+          <Label>Résultat</Label>
+          <Textarea
+            value={rssContent}
+            readOnly
+            rows={10}
+            className="font-mono text-sm"
+          />
+        </div>
       )}
     </Card>
   );

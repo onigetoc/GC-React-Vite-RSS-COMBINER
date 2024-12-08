@@ -100,7 +100,7 @@ https://feeds.megaphone.fm/ADL9840290619`);
             </div>
 
             <div className="space-y-2">
-              <Label htmlFor="link">Lien du site</Label>
+              <Label htmlFor="link">Lien du site 2</Label>
               <Input
                 id="link"
                 type="url"

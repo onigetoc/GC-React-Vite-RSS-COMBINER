@@ -1,0 +1,11 @@
+:root {
+  --background: 0 0% 100%;
+  --card: 0 0% 98%;
+  --nav-bg: 215 25% 27%;
+}
+
+.dark {
+  --background: 220 10% 10%;
+  --card: 217 33% 17%;  /* Un peu plus clair que slate-800 */
+  --nav-bg: 215 25% 13%;  /* Plus foncé que la card */
+}

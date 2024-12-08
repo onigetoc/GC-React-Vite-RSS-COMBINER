@@ -1,0 +1,9 @@
+RSS COMBINER SUPABASE
+
+Database Password: ubmk4HW9v9qfEp54uPu1
+
+# URL de votre projet Supabase (exemple: https://xyzproject.supabase.co)
+VITE_SUPABASE_URL=https://dxfaaqotsilerhneifhh.supabase.co
+
+# Clé anon/public de votre projet (trouvable dans Project Settings > API)
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR4ZmFhcW90c2lsZXJobmVpZmhoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzM1NjY5OTAsImV4cCI6MjA0OTE0Mjk5MH0.0fJt3s3tD9eiCjoQOD1BUSdOWoDHYcCQXT32ANx0B3s

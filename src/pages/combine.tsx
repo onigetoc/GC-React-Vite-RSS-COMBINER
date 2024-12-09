@@ -9,6 +9,8 @@ import { Rss, Save, Plus } from "lucide-react";
 import { useTheme } from "@/contexts/theme-provider";
 import { Navigation } from "@/components/Navigation";
 import axios from "axios"; // Importez axios pour les requêtes HTTP
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { languages } from "@/lib/languages";
 
 const Combine = () => {
   const { toast } = useToast();
@@ -42,8 +44,8 @@ https://feeds.megaphone.fm/ADL9840290619`);
 
     try {
       toast({
-        title: "Traitement en cours",
-        description: "Combinaison des flux RSS...",
+        title: "Processing",
+        description: "Combining RSS feeds...",
       });
 
       // Modifiez le port ici aussi
@@ -64,14 +66,14 @@ https://feeds.megaphone.fm/ADL9840290619`);
       // ...votre code pour gérer le fichier...
 
       toast({
-        title: "Succès",
-        description: "Les flux RSS ont été combinés avec succès",
+        title: "Success",
+        description: "RSS feeds have been combined successfully",
       });
     } catch (error) {
-      console.error("Erreur lors de la combinaison des flux :", error);
+      console.error("Error while combining feeds:", error);
       toast({
-        title: "Erreur",
-        description: `Une erreur est survenue lors de la combinaison des flux RSS: ${error.message}`,
+        title: "Error",
+        description: `An error occurred while combining RSS feeds: ${error.message}`,
         variant: "destructive",
       });
     }
@@ -83,14 +85,14 @@ https://feeds.megaphone.fm/ADL9840290619`);
       <div className="container mx-auto p-4 max-w-2xl pt-20">
         <div className="p-6 space-y-6 rounded-lg border shadow-lg bg-white dark:bg-slate-800">
           <div className="flex items-center gap-2">
-            <Rss className="h-6 w-6 text-primary" />
+            <Rss className="h-6 w-6 text-[#F26522]" /> {/* Changement ici : couleur orange RSS officielle */}
             <h1 className="text-2xl font-bold">RSS Feed Combiner</h1>
           </div>
 
           <form onSubmit={handleSubmit} className="space-y-6">
             <div className="space-y-4">
               <div className="space-y-2">
-                <Label htmlFor="title">Titre du flux</Label>
+                <Label htmlFor="title">Feed Title</Label>
                 <Input
                   id="title"
                   value={channelConfig.title}
@@ -98,7 +100,7 @@ https://feeds.megaphone.fm/ADL9840290619`);
                     ...channelConfig,
                     title: e.target.value
                   })}
-                  placeholder="Mon flux RSS combiné"
+                  placeholder="My Combined RSS Feed"
                 />
               </div>
 
@@ -111,12 +113,12 @@ https://feeds.megaphone.fm/ADL9840290619`);
                     ...channelConfig,
                     description: e.target.value
                   })}
-                  placeholder="Description de votre flux RSS"
+                  placeholder="Description of your RSS feed"
                 />
               </div>
 
               <div className="space-y-2">
-                <Label htmlFor="link">Lien du site</Label>
+                <Label htmlFor="link">Website Link</Label>
                 <Input
                   id="link"
                   type="url"
@@ -125,8 +127,31 @@ https://feeds.megaphone.fm/ADL9840290619`);
                     ...channelConfig,
                     link: e.target.value
                   })}
-                  placeholder="https://monsite.com"
+                  placeholder="https://yourwebsite.com"
+                  className="bg-background [&:not(:focus)]:bg-background [&:valid]:bg-background" // Override des styles du navigateur
                 />
+              </div>
+
+              <div className="space-y-2">
+                <Label htmlFor="language">Feed Language</Label>
+                <Select 
+                  value={channelConfig.language} 
+                  onValueChange={(value) => setChannelConfig({
+                    ...channelConfig,
+                    language: value
+                  })}
+                >
+                  <SelectTrigger className="w-full bg-background">
+                    <SelectValue placeholder="Select a language" />
+                  </SelectTrigger>
+                  <SelectContent>
+                    {languages.map((lang) => (
+                      <SelectItem key={lang.code} value={lang.code}>
+                        {lang.label}
+                      </SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
               </div>
 
               <div className="space-y-2">
@@ -150,7 +175,7 @@ https://feeds.megaphone.fm/ADL9840290619`}
               className="w-full bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 text-white font-medium"
             >
               <Save className="mr-2 h-4 w-4" />
-              Générer et Sauvegarder
+              Generate and Save
             </Button>
           </form>
         </div>

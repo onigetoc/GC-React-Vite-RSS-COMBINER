@@ -44,18 +44,18 @@ const Index = () => {
       <form onSubmit={handleSubmit} className="space-y-4">
         <div className="grid gap-4">
           <div className="space-y-2">
-            <Label htmlFor="feedUrls">URLs des flux RSS</Label>
+            <Label htmlFor="feedUrls">RSS Feed URLs</Label>
             <Input
               id="feedUrls"
               value={feedUrls}
               onChange={(e) => setFeedUrls(e.target.value)}
-              placeholder="Entrez les URLs des flux RSS séparées par des virgules"
+              placeholder="Enter RSS feed URLs separated by commas"
               className="min-h-[80px]"
             />
           </div>
 
           <div className="space-y-2">
-            <Label htmlFor="language">Langue du flux</Label>
+            <Label htmlFor="language">Feed Language</Label>
             <Select value={selectedLanguage} onValueChange={setSelectedLanguage}>
               <SelectTrigger className="w-full bg-background">
                 <SelectValue placeholder="Sélectionnez une langue" />
@@ -74,12 +74,12 @@ const Index = () => {
             {isLoading ? (
               <span className="flex items-center">
                 <Rss className="mr-2 h-4 w-4 animate-spin" />
-                Chargement...
+                Loading...
               </span>
             ) : (
               <span className="flex items-center">
                 <Rss className="mr-2 h-4 w-4" />
-                Combiner les flux RSS
+                Combine RSS Feeds
               </span>
             )}
           </Button>
@@ -87,7 +87,7 @@ const Index = () => {
       </form>
       {rssContent && (
         <div className="space-y-2">
-          <Label>Résultat</Label>
+          <Label>Result</Label>
           <Textarea
             value={rssContent}
             readOnly

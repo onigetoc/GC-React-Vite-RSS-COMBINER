@@ -7,9 +7,10 @@ import { AuthGuard } from "./components/AuthGuard";
 import Index from "./pages/Index";
 import Login from "./pages/Login";
 import Combine from "./pages/combine";
-import { useEffect } from "react";
+import { useState, useEffect } from "react";
 import { supabase } from "@/lib/supabase";  // Correction de l'import
 import { ThemeProvider } from "./contexts/theme-provider";
+import { LoadingSpinner } from "@/components/LoadingSpinner";
 
 const queryClient = new QueryClient();
 
@@ -31,11 +32,24 @@ const App = () => {
           <BrowserRouter>
             <Routes>
               <Route path="/login" element={<Login />} />
-              <Route path="/" element={
-                <AuthGuard>
-                  <Combine />  {/* On met Combine comme page principale */}
-                </AuthGuard>
-              } />
+              {/* Protéger les routes qui nécessitent une authentification */}
+              <Route 
+                path="/combine" 
+                element={
+                  <ProtectedRoute>
+                    <Combine />
+                  </ProtectedRoute>
+                } 
+              />
+              {/* Rediriger la racine vers /combine si authentifié, sinon vers /login */}
+              <Route 
+                path="/" 
+                element={
+                  <ProtectedRoute>
+                    <Navigate to="/combine" replace />
+                  </ProtectedRoute>
+                } 
+              />
               <Route path="*" element={<Navigate to="/" replace />} />
             </Routes>
           </BrowserRouter>
@@ -44,5 +58,34 @@ const App = () => {
     </QueryClientProvider>
   );
 };
+
+// Composant pour protéger les routes
+function ProtectedRoute({ children }) {
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    supabase.auth.getSession().then(({ data: { session } }) => {
+      setIsAuthenticated(!!session);
+      setLoading(false);
+    });
+
+    const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
+      setIsAuthenticated(!!session);
+    });
+
+    return () => subscription.unsubscribe();
+  }, []);
+
+  if (loading) {
+    return <LoadingSpinner />;
+  }
+
+  if (!isAuthenticated) {
+    return <Navigate to="/login" replace />;
+  }
+
+  return children;
+}
 
 export default App;

@@ -56,8 +56,9 @@ router.post('/', async (req, res) => {
         const builder = new Builder({
             rootName: 'rss',
             xmldec: { version: '1.0', encoding: 'UTF-8' },
-            renderOpts: { pretty: true },
-            cdata: true
+            renderOpts: { pretty: true, doubleQuotes: true },
+            cdata: true,
+            headless: true // Empêche l'ajout d'un en-tête XML supplémentaire
         });
 
         const feeds = await Promise.all(
@@ -109,25 +110,24 @@ router.post('/', async (req, res) => {
             })
             .sort((a, b) => new Date(b.pubDate[0] || 0) - new Date(a.pubDate[0] || 0));
 
-        // Construction du flux combiné avec la structure existante
+        // Construction du flux combiné avec un seul tag RSS
         const combinedFeed = {
-            rss: {
-                $: {
-                    version: '2.0',
-                    'xmlns:media': 'http://search.yahoo.com/mrss/'
-                },
-                channel: [{
-                    title: [channelConfig.title],
-                    description: [channelConfig.description],
-                    link: [channelConfig.link],
-                    language: [channelConfig.language],
-                    pubDate: [new Date().toUTCString()],
-                    item: allItems
-                }]
-            }
+            $: {
+                version: '2.0'
+            },
+            channel: [{
+                title: [channelConfig.title],
+                description: [channelConfig.description],
+                link: [channelConfig.link],
+                language: [channelConfig.language],
+                pubDate: [new Date().toUTCString()],
+                item: allItems
+            }]
         };
 
-        const xml = builder.buildObject(combinedFeed);
+        const xml = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">' + 
+                    builder.buildObject(combinedFeed).replace(/<\/?rss[^>]*>/g, '') + 
+                    '</rss>';
 
         const outputDir = './generated';
         await fs.mkdir(outputDir, { recursive: true });

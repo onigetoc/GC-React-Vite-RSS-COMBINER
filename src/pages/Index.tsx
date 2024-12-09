@@ -73,12 +73,12 @@ const Index = () => {
           <Button type="submit" disabled={isLoading} className="w-full">
             {isLoading ? (
               <span className="flex items-center">
-                <Rss className="mr-2 h-4 w-4 animate-spin" />
+                <Rss className="mr-2 h-4 w-4 animate-spin text-[#F26522]" />
                 Loading...
               </span>
             ) : (
               <span className="flex items-center">
-                <Rss className="mr-2 h-4 w-4" />
+                <Rss className="mr-2 h-4 w-4 text-[#F26522]" />
                 Combine RSS Feeds
               </span>
             )}

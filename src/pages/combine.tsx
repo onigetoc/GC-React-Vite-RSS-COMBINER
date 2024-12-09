@@ -17,12 +17,24 @@ const Combine = () => {
   const { theme, toggleTheme } = useTheme();
   const [feedUrls, setFeedUrls] = useState(`http://feeds.bbci.co.uk/news/technology/rss.xml
 https://feeds.megaphone.fm/ADL9840290619`);
+  
+  // Utiliser localStorage pour la langue, avec en-US par défaut
   const [channelConfig, setChannelConfig] = useState({
     title: "",
     description: "",
     link: "",
-    language: "fr-FR"
+    language: localStorage.getItem('preferredLanguage') || "en-US",
+    itemsLimit: 20 // Ajout du nombre d'items par défaut
   });
+
+  // Nouvelle fonction pour gérer le changement de langue
+  const handleLanguageChange = (value: string) => {
+    localStorage.setItem('preferredLanguage', value);
+    setChannelConfig(prev => ({
+      ...prev,
+      language: value
+    }));
+  };
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -132,26 +144,41 @@ https://feeds.megaphone.fm/ADL9840290619`);
                 />
               </div>
 
-              <div className="space-y-2">
-                <Label htmlFor="language">Feed Language</Label>
-                <Select 
-                  value={channelConfig.language} 
-                  onValueChange={(value) => setChannelConfig({
-                    ...channelConfig,
-                    language: value
-                  })}
-                >
-                  <SelectTrigger className="w-full bg-background">
-                    <SelectValue placeholder="Select a language" />
-                  </SelectTrigger>
-                  <SelectContent>
-                    {languages.map((lang) => (
-                      <SelectItem key={lang.code} value={lang.code}>
-                        {lang.label}
-                      </SelectItem>
-                    ))}
-                  </SelectContent>
-                </Select>
+              <div className="grid grid-cols-2 gap-4">
+                <div className="space-y-2">
+                  <Label htmlFor="language">Feed Language</Label>
+                  <Select 
+                    value={channelConfig.language} 
+                    onValueChange={handleLanguageChange}
+                  >
+                    <SelectTrigger className="w-full bg-background">
+                      <SelectValue placeholder="Select a language" />
+                    </SelectTrigger>
+                    <SelectContent>
+                      {languages.map((lang) => (
+                        <SelectItem key={lang.code} value={lang.code}>
+                          {lang.label}
+                        </SelectItem>
+                      ))}
+                    </SelectContent>
+                  </Select>
+                </div>
+
+                <div className="space-y-2">
+                  <Label htmlFor="itemsLimit">Number of Items</Label>
+                  <Input
+                    id="itemsLimit"
+                    type="number"
+                    min="1"
+                    max="100"
+                    value={channelConfig.itemsLimit}
+                    onChange={(e) => setChannelConfig(prev => ({
+                      ...prev,
+                      itemsLimit: Math.max(1, parseInt(e.target.value) || 20)
+                    }))}
+                    className="bg-background"
+                  />
+                </div>
               </div>
 
               <div className="space-y-2">

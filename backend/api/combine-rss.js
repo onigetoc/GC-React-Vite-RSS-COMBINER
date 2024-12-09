@@ -108,26 +108,38 @@ router.post('/', async (req, res) => {
 
                 return baseItem;
             })
-            .sort((a, b) => new Date(b.pubDate[0] || 0) - new Date(a.pubDate[0] || 0));
+            .sort((a, b) => new Date(b.pubDate[0] || 0) - new Date(a.pubDate[0] || 0))
+            .slice(0, channelConfig.itemsLimit || 20); // Ajout de la limite d'items
 
-        // Construction du flux combiné avec un seul tag RSS
+        // Construction du flux combiné avec un seul tag RSS et gestion des valeurs vides
         const combinedFeed = {
             $: {
                 version: '2.0'
             },
             channel: [{
-                title: [channelConfig.title],
-                description: [channelConfig.description],
-                link: [channelConfig.link],
-                language: [channelConfig.language],
+                title: [channelConfig.title || 'Untitled Feed'],
+                description: [channelConfig.description || ''],
+                link: [channelConfig.link || '#'],  // Valeur par défaut si vide
+                language: [channelConfig.language || 'en'],
                 pubDate: [new Date().toUTCString()],
-                item: allItems
+                item: allItems.map(item => ({
+                    ...item,
+                    title: [item.title?.[0] || 'Untitled'],
+                    description: [item.description?.[0] || ''],
+                    link: [item.link?.[0] || '#'],
+                    guid: [item.guid?.[0] || item.link?.[0] || '#'],
+                    pubDate: [item.pubDate?.[0] || new Date().toUTCString()]
+                }))
             }]
         };
 
-        const xml = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">' + 
-                    builder.buildObject(combinedFeed).replace(/<\/?rss[^>]*>/g, '') + 
-                    '</rss>';
+        // Utilisation d'une approche différente pour la construction XML
+        const xml = '<?xml version="1.0" encoding="UTF-8"?>\n' +
+                   '<rss version="2.0">\n' +
+                   builder.buildObject(combinedFeed)
+                         .replace(/<\/?rss[^>]*>/g, '')
+                         .replace(/>\s*</g, '>\n<') + // Améliore la lisibilité
+                   '</rss>';
 
         const outputDir = './generated';
         await fs.mkdir(outputDir, { recursive: true });

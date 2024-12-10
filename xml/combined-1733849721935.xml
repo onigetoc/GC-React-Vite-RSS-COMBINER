@@ -2,16 +2,30 @@
 <rss version="2.0">
 
   <channel>
-<title>titre 4</title>
-<description>description du flux 4</description>
+<title>title 6</title>
+<description>description du flux 6</description>
 <link>https://intelixai.com</link>
-<language>en-US</language>
-<pubDate>Tue, 10 Dec 2024 03:40:45 GMT</pubDate>
+<language>en</language>
+<pubDate>Tue, 10 Dec 2024 16:55:21 GMT</pubDate>
+<item>
+<title>Amazon and eBay to pay 'fair share' for e-waste recycling</title>
+<description>Firms which produce e-cigarettes will also be asked to pay more towards UK recycling. </description>
+<link>https://www.bbc.com/news/articles/cly75xnk5exo</link>
+<guid>https://www.bbc.com/news/articles/cly75xnk5exo#0</guid>
+<pubDate>Tue, 10 Dec 2024 13:14:11 GMT</pubDate>
+</item>
+<item>
+<title>Secret Level creator fears fans, not critics</title>
+<description>The creators of Prime Video's new video game-inspired show say pleasing fans and newcomers is daunting.</description>
+<link>https://www.bbc.com/news/articles/ce8n5jn100wo</link>
+<guid>https://www.bbc.com/news/articles/ce8n5jn100wo#0</guid>
+<pubDate>Tue, 10 Dec 2024 09:38:15 GMT</pubDate>
+</item>
 <item>
 <title>What is rage-baiting and why is it profitable?</title>
 <description>Called rage-baiting, making people angry with social media posts can be a business.</description>
 <link>https://www.bbc.com/news/articles/c4gp555xy5ro</link>
-<guid>https://www.bbc.com/news/articles/c4gp555xy5ro#0</guid>
+<guid>https://www.bbc.com/news/articles/c4gp555xy5ro#2</guid>
 <pubDate>Tue, 10 Dec 2024 00:00:14 GMT</pubDate>
 </item>
 <item>
@@ -140,7 +154,7 @@
 <title>What next for Bitcoin after bursting $100k barrier?</title>
 <description>The rapid increase in price has been attributed to Donald Trump's election victory - can it continue? </description>
 <link>https://www.bbc.com/news/articles/cqjz04lv5q9o</link>
-<guid>https://www.bbc.com/news/articles/cqjz04lv5q9o#0</guid>
+<guid>https://www.bbc.com/news/articles/cqjz04lv5q9o#2</guid>
 <pubDate>Thu, 05 Dec 2024 12:40:43 GMT</pubDate>
 </item>
 <item>
@@ -263,7 +277,7 @@
 <title>Microsoft faces £1bn class action case in UK over software prices</title>
 <description>It is alleged the tech giant overcharged companies for its Window Server software, used in cloud computing.</description>
 <link>https://www.bbc.com/news/articles/c20wjnxr5ldo</link>
-<guid>https://www.bbc.com/news/articles/c20wjnxr5ldo#1</guid>
+<guid>https://www.bbc.com/news/articles/c20wjnxr5ldo#2</guid>
 <pubDate>Tue, 03 Dec 2024 11:00:12 GMT</pubDate>
 </item>
 <item>
@@ -272,20 +286,6 @@
 <link>https://www.bbc.com/news/videos/c2kxd0z537go</link>
 <guid>https://www.bbc.com/news/videos/c2kxd0z537go#3</guid>
 <pubDate>Tue, 03 Dec 2024 10:29:17 GMT</pubDate>
-</item>
-<item>
-<title>Musk's record $56bn pay deal rejected for second time</title>
-<description>The judge upheld her previous decision, saying board members who set the pay were too heavily influenced by Mr Musk.</description>
-<link>https://www.bbc.com/news/articles/cyv3pzm4178o</link>
-<guid>https://www.bbc.com/news/articles/cyv3pzm4178o#2</guid>
-<pubDate>Tue, 03 Dec 2024 08:56:36 GMT</pubDate>
-</item>
-<item>
-<title>'Roll your eyes if you want, I'm a star': TikTok to hold first awards show</title>
-<description>The UK's first TikTok Awards sees 72 creators, who have a combined follower count of over 101m, nominated.</description>
-<link>https://www.bbc.com/news/articles/c8j9l3jjxe3o</link>
-<guid>https://www.bbc.com/news/articles/c8j9l3jjxe3o#2</guid>
-<pubDate>Tue, 03 Dec 2024 02:33:40 GMT</pubDate>
 </item>
 </channel>
 </rss>

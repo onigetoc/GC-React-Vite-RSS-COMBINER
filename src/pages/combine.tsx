@@ -340,8 +340,8 @@ https://feeds.megaphone.fm/ADL9840290619`}
                   {feed.title}
                 </button>
                 <div className="flex items-center text-sm text-gray-600 mt-1">
-                  <span className="mr-2">/generated/{feed.id}.xml</span>
-                  <button onClick={() => copyToClipboard(`/generated/${feed.id}.xml`)}>
+                  <span className="mr-2">/xml/{feed.id}.xml</span>
+                  <button onClick={() => copyToClipboard(`/xml/${feed.id}.xml`)}>
                     <CopyIcon />
                   </button>
                 </div>

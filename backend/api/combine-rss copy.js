@@ -50,7 +50,7 @@ router.post('/', async (req, res) => {
     const xml = builder.buildObject(combinedFeed);
 
     // Option : sauvegarder le fichier localement
-    const outputDir = './generated';
+    const outputDir = './xml';
     await fs.mkdir(outputDir, { recursive: true });
     const filename = `combined-${Date.now()}.xml`;
     await fs.writeFile(`${outputDir}/${filename}`, xml);

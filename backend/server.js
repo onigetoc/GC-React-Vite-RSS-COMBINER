@@ -24,7 +24,7 @@ app.use((req, res, next) => {
 });
 
 // Servir le dossier 'generated' statiquement
-app.use('/generated', express.static(path.join(__dirname, 'generated')));
+app.use('/xml', express.static(path.join(__dirname, 'xml')));
 
 // Utiliser le routeur au lieu de la route de test
 app.use('/combine-rss', combineRSSRouter);

@@ -146,7 +146,7 @@ router.post('/', async (req, res) => {
                          .replace(/>\s*</g, '>\n<') + // Améliore la lisibilité
                    '</rss>';
 
-        const outputDir = './generated';
+        const outputDir = './xml';
         await fs.mkdir(outputDir, { recursive: true });
         const filename = `combined-${Date.now()}.xml`;
         await fs.writeFile(`${outputDir}/${filename}`, xml);

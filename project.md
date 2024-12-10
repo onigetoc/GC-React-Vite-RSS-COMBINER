@@ -1,9 +1,56 @@
-- .aider.chat.history.md
-- .aider.input.history
-- .aider.tags.cache.v3
-  - cache.db
-  - cache.db-shm
-  - cache.db-wal
+
+# Application RSS Combiner
+
+## Vue d'ensemble du projet réalisé jusqu'a maintenant:
+
+Application web permettant de combiner et gérer différents flux RSS avec stockage des données utilisateur via Supabase.
+
+Fonctionnalités principales
+1. Gestion des flux RSS
+Combinaison de multiples flux RSS en un seul
+Flux par défaut : BBC News Tech et podcast Megaphone
+Limite configurable d'items (20 par défaut)
+2. Configuration du canal
+Personnalisation du titre
+Description personnalisée
+Lien personnalisé
+Sélection de la langue (sauvegardée dans localStorage)
+3. Interface utilisateur
+Thème clair/sombre
+Notifications système
+Navigation principale
+Barre latérale des flux
+Formulaires interactifs
+Support multilingue
+4. Intégration Supabase
+Base de données
+Table users : Informations des utilisateurs
+Table feeds : Flux RSS sauvegardés
+Table combined_feeds : XML générés
+Authentification utilisateur intégrée
+Fonctionnalités Supabase
+Sauvegarde des configurations utilisateur
+Stockage des flux favoris
+Historique des flux générés
+Gestion des sessions utilisateur
+Export/Import des configurations
+5. Composants UI
+Navigation
+Sidebar
+Formulaires
+Boutons
+Sélecteurs
+Cartes
+Icônes de copie
+Technologies utilisées
+React/TypeScript
+Supabase (Backend as a Service)
+Axios pour les requêtes HTTP
+LocalStorage pour les préférences
+Composants UI personnalisés
+
+here my web app structur:
+
 - .env
 - .env.example
 - .gitignore

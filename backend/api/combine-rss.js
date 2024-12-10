@@ -149,11 +149,9 @@ router.post('/', async (req, res) => {
         const outputDir = './xml';
         await fs.mkdir(outputDir, { recursive: true });
         const filename = `combined-${Date.now()}.xml`;
-        await fs.writeFile(`${outputDir}/${filename}`, xml);
 
-        // Après la génération du XML et l'écriture du fichier, ajoutez :
+        // Après la génération du XML et l'écriture du fichier
         try {
-            // Insérer dans rss_configs
             const { data: configData, error: configError } = await supabase
                 .from('rss_configs')
                 .insert({
@@ -162,7 +160,9 @@ router.post('/', async (req, res) => {
                     description: channelConfig.description,
                     link: channelConfig.link,
                     language: channelConfig.language,
-                    nbr_items: channelConfig.itemsLimit
+                    nbr_items: channelConfig.itemsLimit,
+                    filename: filename,
+                    created_at: new Date().toISOString() // Ajouter explicitement la date de création
                 })
                 .select();
 

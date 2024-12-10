@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+  <channel>
+<title>title2</title>
+<description>description du flux 2</description>
+<link>https://intelixai.com/</link>
+<language>en-US</language>
+<pubDate>Mon, 09 Dec 2024 23:08:49 GMT</pubDate>
+<item>
+<title>Rode's latest Wireless GO microphone system boasts 40 hours of on-board storage</title>
+<description>
+<![CDATA[<p>Rode just announced the latest iteration of its well-regarded Wireless GO microphone system. The third-gen kit brings plenty of new features to the table, especially when compared to <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/rodes-wireless-go-ii-unveiled-150043322.html">
+<ins>2021’s Wireless GO II</ins>
+</a>.</p>
+<p>The microphone allows for 32-bit float on-board recording and audio can be captured directly to the receiver. The system allows up to 40 hours of footage, stored internally, and includes a new technology called GainAssist.</p>
+<span id="end-legacy-contents">
+</span>
+<p>This is a compression algorithm, of sorts, that will “dynamically balance audio levels on-the-fly.” Rode says the system eliminates “the wild fluctuations typically found in a raw recording.” The company even says that there should be little-to-no editing required in post when using this system. If the algorithm makes a mistake, the microphone includes a secondary storage channel that records a dry copy of the audio.</p>
+<figure>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/0898b510-b64c-11ef-b6f7-6154d339e35e" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/0898b510-b64c-11ef-b6f7-6154d339e35e" style="height:1398px;width:2098px;" alt="A bunch of colored receivers." data-uuid="91bb6860-a628-302f-b887-13156d1c6b96">
+<figcaption>
+</figcaption>
+<div class="photo-credit">
+  Rode
+ </div>
+</figure>
+<p>Most users will use these microphones connected to a camera of some kind, so on-board storage won’t be needed. Rode says that the new Wireless GO system can operate up to 260 meters from the receiver, so long as it's in the line of sight. The company also says that it is compatible with all Rode Series IV devices, including the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/rodecaster-pro-ii-details-000035416.html">
+<ins>RodeCaster Pro II</ins>
+</a> and <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/entertainment/streaming/the-rodecaster-video-packs-audio-and-video-production-features-into-one-mighty-console-160015714.html">
+<ins>Rodecaster Video</ins>
+</a>. This is in addition to offering “universal compatibility with cameras, smartphones and computers.”</p>
+<p>There are locking lavalier connectors and an integrated LCD screen for keeping an eye on battery and audio signal levels. Finally, this system is available in a whole bunch of limited-edition colors, including red, orange, pink and purple, among others. The Wireless GO II was only available in black and white.</p>
+<figure>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/b3505210-b64c-11ef-bf1f-a2fb506cb355" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/b3505210-b64c-11ef-bf1f-a2fb506cb355" style="height:1316px;width:1400px;" alt="The entire system." data-uuid="f213448d-ce9e-3860-b721-7d8de7b68483">
+<figcaption>
+</figcaption>
+<div class="photo-credit">
+  Rode 
+ </div>
+</figure>
+<p>This updated Wireless GO microphone kit comes with one receiver, two transceivers, a charging hub, a few windshields and plenty of cables. It's available for $300. There’s also a dedicated charging case, which is sold separately for $90.</p>
+<p>
+<core-commerce id="9abddabed62544e097a1d21a9e9d0143" data-type="product-list" data-original-url="https://rode.com/en-us">
+</core-commerce>
+</p>
+<p>
+</p>This article originally appeared on Engadget at https://www.engadget.com/audio/rodes-latest-wireless-go-microphone-system-boasts-40-hours-of-on-board-storage-230014651.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/audio/rodes-latest-wireless-go-microphone-system-boasts-40-hours-of-on-board-storage-230014651.html?src=rss</link>
+<guid>88d17ca5-1db2-4192-b14c-150a8da990ce</guid>
+<pubDate>Mon, 09 Dec 2024 23:00:14 +0000</pubDate>
+<media:thumbnail>https://s.yimg.com/os/creatr-uploaded-images/2024-12/0898b510-b64c-11ef-b6f7-6154d339e35e</media:thumbnail>
+</item>
+<item>
+<title>Grok’s new ‘Aurora’ image generator is back, and rolling out to everyone on X</title>
+<description>
+<![CDATA[<p>
+<strong>Update, December 9, 2024, 5:45PM ET:</strong> X today formally announced its Aurora image generator. &quot;Grok&#39;s new capabilities are now available on the X platform in select countries and will roll out to all users within a week,&quot; <a data-i13n="cpos:1;pos:1" href="https://x.ai/blog/grok-image-generation-release">the company said in a blog post</a>. The original story, previously headlined &quot;X adds, then quickly removes, Grok’s new ‘Aurora’ image generator,&quot; follows unedited below:</p>
+<hr>
+<p>On Saturday, a new image generator called Aurora became available for some Grok users, many of whom <a data-i13n="cpos:2;pos:1" href="https://x.com/AILeaksAndNews/status/1865363337921384623">shared the tool’s results</a> on X touting their photorealism. But as of Sunday afternoon, Aurora appears to be gone. While it briefly showed up as an option in Grok’s model selection menu as “Grok 2 + Aurora (beta),” it’s since been replaced with “Grok 2 + Flux (beta).” It looks like Aurora may have gone public before it was meant to. In a tweet replying to one user who shared images of Tesla’s Cybertruck created with Aurora, <a data-i13n="cpos:3;pos:1" href="https://x.com/elonmusk/status/1865497141818401202">Elon Musk</a> said, “This is our internal image generation system. Still in beta, but it will improve fast.”</p>
+<span id="end-legacy-contents">
+</span>
+<div id="b505074613af4731b3204682aa44b41a">
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Behold my images using the new Grok <a href="https://twitter.com/grok?ref_src=twsrc%5Etfw">@grok</a> image generator Aurora: 🧵<br>
+<br>1. Ray Romano and <a href="https://twitter.com/AdamSandler?ref_src=twsrc%5Etfw">@AdamSandler</a> on a sitcom set <a href="https://t.co/2V491RdjMF">pic.twitter.com/2V491RdjMF</a>
+</p>— Matt (@EnsoMatt) <a href="https://twitter.com/EnsoMatt/status/1865413187740303628?ref_src=twsrc%5Etfw">December 7, 2024</a>
+</blockquote>
+</div>
+<p>It comes a few days after <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/social-media/if-youre-really-bored-xs-grok-ai-chatbot-is-now-free-to-use-194715700.html">X made Grok 2 free to use</a>, albeit with limitations for non-paying users. Grok’s previous image generator <a data-i13n="cpos:5;pos:1" href="https://www.theguardian.com/technology/article/2024/aug/14/musk-ai-chatbot-images-grok-x">has been called out</a> for lacking certain restrictions around the types of content it can produce, like offensive images of politicians and celebrities, and Aurora seems pretty much in line with what we’ve seen already in that regard. <a data-i13n="cpos:6;pos:1" href="https://techcrunch.com/2024/12/07/elon-musks-x-gains-a-new-image-generator-aurora/">
+<em>TechCrunch</em>
+</a> played around with Aurora for a bit before it was taken down and found it didn’t reject a prompt to create “an image of a bloodied [Donald] Trump.”&nbsp;</p>
+<p>That’s in addition to examples shared on X of it generating images of public figures and copyrighted characters — including numerous images of Sam Altman and Elon Musk, as well as an image of <a data-i13n="cpos:7;pos:1" href="https://x.com/altryne/status/1865409776307376270">Luigi and Mickey Mouse</a> in a boxing match. But, it wouldn’t produce nudes, according to <em>TechCrunch,</em> so that&#39;s something.</p>This article originally appeared on Engadget at https://www.engadget.com/ai/x-adds-then-quickly-removes-groks-new-aurora-image-generator-181917002.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/ai/x-adds-then-quickly-removes-groks-new-aurora-image-generator-181917002.html?src=rss</link>
+<guid>7f2e001b-87d2-4bc3-a68b-6fb2321cd652</guid>
+<pubDate>Mon, 09 Dec 2024 22:51:10 +0000</pubDate>
+</item>
+<item>
+<title>Google's Willow quantum chip breakthrough is hidden behind a questionable benchmark</title>
+<description>
+<![CDATA[<p>Google <a data-i13n="cpos:1;pos:1" href="https://blog.google/technology/research/google-willow-quantum-chip/">debuted Willow</a>, its latest quantum chip, on Wednesday, and if you’ve spent any time online since, you’ve undoubtedly run into some breathless reporting about it. Willow “crushes classical computers on a cosmic timescale,” <a data-i13n="cpos:2;pos:1" href="https://gizmodo.com/googles-willow-quantum-chip-crushes-classical-computers-on-a-cosmic-timescale-2000535901">proclaims one headline</a>; Google “unveils ‘mind-boggling’ quantum computer chip,” <a data-i13n="cpos:3;pos:1" href="https://www.bbc.com/news/articles/c791ng0zvl3o">reads another</a>.  It’s all anchored by a claim that Willow can complete a computation that would theoretically take a classical computer significantly more time than the 14 billion years the universe has existed. But, as you can probably guess, what the chip represents is not so simple.</p>
+<p>First, with Willow, Google makes no claim of quantum supremacy, something the company <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/2019-09-23-google-quantum-supremacy.html">did</a> when it publicly debuted its previous generation quantum computer, Sycamore, back in 2019. You may recall that, at the time, Google publicized how it took Sycamore just 200 seconds to perform a calculation that would have theoretically taken the world’s <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/2018-06-08-summit-supercomputer-research-ai-oak-ridge.html">then-fastest supercomputer</a> 10,000 years to complete. That feat, the company said, demonstrated that it had created a quantum computer that could solve problems the best classical computers could not even attempt. In other words, Google had <a data-i13n="cpos:6;pos:1" href="https://research.google/blog/quantum-supremacy-using-a-programmable-superconducting-processor/">achieved quantum supremacy</a>.</p>
+<span id="end-legacy-contents">
+</span>
+<div id="28d1e6fcd1974b458fa76e2bc64220a0">
+<iframe src="https://www.youtube.com/embed/W7ppd_RY-UE?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen="" scrolling="no" data-embed-domain="www.youtube.com">
+</iframe>
+</div>
+<p>However, that claim quickly ended in controversy, with one researcher calling the company’s announcement “indefensible” and “just plain wrong,” and Google has since avoided talking about quantum supremacy. Instead, it just says it has achieved “beyond classical computation.” Part of the issue was that Sycamore was not a general-purpose quantum computer; instead, it was designed to surpass classical computers in a single task known as random circuit sampling or RCS. The thing about RCS is that, in Google’s own words, it has “no known real-world applications.” Yet, here again, the company is touting RCS performance.</p>
+<p>Google says Willow can complete its latest RCS benchmark in under five minutes. By contrast, the company estimates it would take <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/2019-05-07-supercomputer-ai-amd-cray-department-of-energy-frontier.html">Frontier</a>, currently the world’s second most powerful supercomputer, 10 septillion years to complete the same task. That number, Google says, “lends credence to the notion that quantum computation occurs in many parallel universes, in line with the idea that we live in a multiverse.”</p>
+<figure>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/5207b9e0-b67d-11ef-b7ff-2ad2de10207e" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/5207b9e0-b67d-11ef-b7ff-2ad2de10207e" style="height:1439px;width:2560px;" alt="A chart showing that no quantum computer has outperformed a classical computer on a commercially-relevant application. " data-uuid="26efc4bb-40d8-3bb7-a0a1-bd2886aa7e47">
+<figcaption>
+</figcaption>
+<div class="photo-credit">Google</div>
+</figure>
+<p>More practically, Google tries to make the case that RCS performance should be the metric by which all quantum computers are judged. According to Hartmut Neven, the founder of Google Quantum AI, “it’s an entry point. If you can’t win on random circuit sampling, you can’t win on any other algorithm either.” He adds RCS is “now widely used as a standard in the field.“&nbsp;</p>
+<p>However, other companies, including <a data-i13n="cpos:8;pos:1" href="https://www.ibm.com/quantum/blog/quantum-volume-256">IBM</a> and <a data-i13n="cpos:9;pos:1" href="https://www.engadget.com/2020-03-03-honeywell-quantum-computer.html">Honeywell</a>, instead use a metric called quantum volume to tout their breakthroughs. They claim it points to a more holistic understanding of a machine’s capabilities by factoring in how its qubits interact with one another. Unfortunately, you won’t find any mention of quantum volume in the spec sheet Google shared for Willow, making comparisons difficult.</p>
+<div id="26f1f4b7ecfa4f5da3b0bccbe7996195">
+<iframe src="https://www.youtube.com/embed/l_KrC1mzd0g?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen="" scrolling="no" data-embed-domain="www.youtube.com">
+</iframe>
+</div>
+<p>To that point, the far more impressive claim Google is making today is that Willow is “below the threshold.” To date, the problem that has plagued every attempt to build a useful quantum computer is that the quantum bits they’re based on are difficult to control. They only hold their quantum state for fractions of a second, and the more qubits are added to a system, the more likely it is to produce errors. However, with Willow, Google says it has found a way to reduce errors as it adds more qubits to the system. According to the company, Willow is the first time this has been done.</p>
+<p>“As the first system below threshold, this is the most convincing prototype for a scalable logical qubit built to date. It’s a strong sign that useful, very large quantum computers can indeed be built,” says Neven. “Willow brings us closer to running practical, commercially-relevant algorithms that can’t be replicated on conventional computers.”</p>
+<p>That’s the real breakthrough here, and one that points to a future where quantum computers could solve problems that have tangible effects on people&#39;s lives. That future, however, isn&#39;t here just yet, and even Google admits it has more work to do before it gets there.&nbsp;&nbsp;&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/computing/googles-willow-quantum-chip-breakthrough-is-hidden-behind-a-questionable-benchmark-224707174.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/computing/googles-willow-quantum-chip-breakthrough-is-hidden-behind-a-questionable-benchmark-224707174.html?src=rss</link>
+<guid>2dbdaeb8-20d1-4f4f-ae6b-8851dad421c6</guid>
+<pubDate>Mon, 09 Dec 2024 22:47:07 +0000</pubDate>
+<media:thumbnail>https://s.yimg.com/os/creatr-uploaded-images/2024-12/5207b9e0-b67d-11ef-b7ff-2ad2de10207e</media:thumbnail>
+</item>
+<item>
+<title>Apple Intelligence: What's new in iOS 18.2</title>
+<description>
+<![CDATA[<figure>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/c68ac0e0-b273-11ef-b91f-3ca68798b400" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/c68ac0e0-b273-11ef-b91f-3ca68798b400" style="height:1440px;width:2560px;" alt="Apple Intelligence on the new iPhone 16." data-uuid="5d536260-d90d-3fbb-883f-c8b8f7988b49">
+<figcaption>More Apple Intelligence features are coming in December. (Apple)</figcaption>
+<div class="photo-credit">Apple</div>
+</figure>
+<p>
+<a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/apples-first-attempt-at-ai-is-apple-intelligence-181444846.html">Apple Intelligence</a> was the big news at the company's <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/apple-intelligence-ai-ios-18-and-the-biggest-announcements-at-wwdc-2024-184422501.html">Worldwide Developers Conference</a> back in June. Apple made good on a modest first wave of features in <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/ai/apple-intelligence-starts-rolling-out-with-ios-181-and-macos-151-151023619.html">October</a>. But iOS 18.2 — along with sibling OS upgrades for Mac and iPad — will bring a <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/ai/apple-intelligence-expands-in-ios-182-developer-beta-adding-genmoji-visual-intelligence-and-chatgpt-170920932.html">meatier set of Apple Intelligence features</a> to Apple's suite of devices, including Genmoji, Image Playground and ChatGPT integration.&nbsp;</p>
+<p>To check out Apple's new AI, you must have an eligible device and run the current iOS 18.1, iPadOS 18.1 or MacOS 15.1. (On the iPhone side, that's basically the current iPhone 16 models plus last year's iPhone 15 Pro and Pro Max.) You'll also need to <a data-i13n="cpos:5;pos:1" href="https://support.apple.com/en-us/121115">join the waitlist</a> in the Settings app, but Apple Support says it usually only takes a few hours to gain access. Once approved, you'll receive a notification saying it's ready to activate on your device.</p>
+<span id="end-legacy-contents">
+</span>
+<p>Here's what Apple Intelligence features you'll soon have access to this month and beyond. For now, you can test out Writing Tools, check out the new additions to the Photos app, see summarized notifications and more.</p>
+<h2 id="jump-link-which-apple-intelligence-features-are-coming-in-the-future">Which Apple Intelligence features are coming soon?</h2>
+<p>
+<a data-i13n="elm:affiliate_link;sellerN:Apple;elmt:;cpos:6;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=4130e2f0-a14f-4c5e-bdab-cd52ac7d8e79&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=f1fb09af-1740-4463-bf56-b1862976996b&amp;featureId=text-link&amp;merchantName=Apple&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vYXBwbGUtaW50ZWxsaWdlbmNlLyIsImNvbnRlbnRVdWlkIjoiZjFmYjA5YWYtMTc0MC00NDYzLWJmNTYtYjE4NjI5NzY5OTZiIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vYXBwbGUtaW50ZWxsaWdlbmNlLyJ9&amp;signature=AQAAATXNHRBVhfyE-i8d9QJQeBJDeY-nduC-rhRJFfjM0wnH&amp;gcReferrer=https%3A%2F%2Fwww.apple.com%2Fapple-intelligence%2F" class="rapid-with-clickid" data-original-link="https://www.apple.com/apple-intelligence/">More Apple intelligence features</a> are expected to become available <a data-i13n="cpos:7;pos:1" href="https://techcrunch.com/2024/11/04/apple-users-can-soon-upgrade-to-chatgpt-plus-within-the-settings-app/">in December</a> with the release of iOS 18.2, but you can try them now <a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/ai/apple-intelligence-expands-in-ios-182-developer-beta-adding-genmoji-visual-intelligence-and-chatgpt-170920932.html">if you're running the developer beta</a>. Here's what Apple has said is coming.</p>
+<p>
+<strong>Genmoji:</strong> You'll be able to create custom emojis called Genmoji by using photos of friends and family or by typing a description of what you want.</p>
+<p>
+<strong>Image Playground:</strong> This tool will let you quickly create fun images, like turning yourself into a cartoon character, and let you come up with a new image based on the description you give.</p>
+<p>
+<strong>ChatGPT integration:</strong> Perhaps the most well-known AI tool will be built-in to Writing Tools and Siri to help out with requests. For instance, if you ask Siri about a certain document, ChatGPT can help. But Apple is, as usual, prioritizing privacy considerations: You'll always be asked before your information is shared and you'll control when it's used.</p>
+<p>
+<strong>Priority Notifications:</strong> When you receive multiple notifications each day, they'll be prioritized by what’s most important. For instance, if you have a dinner reservation that evening or an important meeting to attend, those notifications will be shown at the top of your notifications so you don't forget.</p>
+<p>
+<strong>Visual intelligence (iPhone 16 series only):</strong> Using the new <a data-i13n="cpos:9;pos:1" href="https://www.engadget.com/mobile/smartphones/iphone-16-pro-hands-on-how-does-a-faux-camera-control-button-feel-so-real-191406863.html">Camera Control button</a> on the <a data-i13n="cpos:10;pos:1" href="https://www.engadget.com/mobile/smartphones/apple-iphone-16-and-iphone-16-plus-review-closing-the-gap-to-the-pro-120050824.html">iPhone 16</a> lineup, you'll be able to learn about and interact with objects and places right in front of you. For instance, you can use it to translate a sign from one language to another or find out more about a restaurant you've never been to by opening the Camera app, then pressing and holding the Camera Control button.</p>
+<p>
+<em>In 2025</em>, we'll see a more robust Siri integration. For starters, it's getting onscreen awareness to "take action with things on your screen." So if a friend texts you their new email address or when their birthday is, you can ask Siri to add it to their contact card.</p>
+<figure>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/01520e40-b274-11ef-9f5f-2eb462538b2a" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/01520e40-b274-11ef-9f5f-2eb462538b2a" style="height:1440px;width:2560px;" alt="Priority notifications on the new iPhone 16" data-uuid="a66bf15c-ec63-3c4f-afd6-da2c2e4e1e70">
+<figcaption>Priority notifications are coming soon to iPhones compatible with Apple Intelligence. (Apple)</figcaption>
+<div class="photo-credit">Apple</div>
+</figure>
+<p>
+</p>
+<h2 id="jump-link-what-is-apple-intelligence">What is Apple Intelligence?</h2>
+<p>Apple Intelligence is essentially Apple's very own generative AI system built-in to eligible devices to help with tasks like writing, communicating and expressing yourself. Apple says that while it draws on your personal context, it doesn't allow anyone else – Apple employees included – to access your personal data.</p>
+<p>Note that Apple will integrate ChatGPT into its system to help with Siri and Writing Tools (more below), but you must give permission to use it on a case-by-case basis.</p>
+<h2 id="jump-link-which-apple-intelligence-features-are-available-now">Which Apple Intelligence features are available now?</h2>
+<p>Apple Intelligence provides access to a <a data-i13n="elm:affiliate_link;sellerN:Apple;elmt:;cpos:11;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=4130e2f0-a14f-4c5e-bdab-cd52ac7d8e79&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=f1fb09af-1740-4463-bf56-b1862976996b&amp;featureId=text-link&amp;merchantName=Apple&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hcHBsZS5jb20vbmV3c3Jvb20vMjAyNC8xMC9hcHBsZS1pbnRlbGxpZ2VuY2UtaXMtYXZhaWxhYmxlLXRvZGF5LW9uLWlwaG9uZS1pcGFkLWFuZC1tYWMvIiwiY29udGVudFV1aWQiOiJmMWZiMDlhZi0xNzQwLTQ0NjMtYmY1Ni1iMTg2Mjk3Njk5NmIiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmFwcGxlLmNvbS9uZXdzcm9vbS8yMDI0LzEwL2FwcGxlLWludGVsbGlnZW5jZS1pcy1hdmFpbGFibGUtdG9kYXktb24taXBob25lLWlwYWQtYW5kLW1hYy8ifQ&amp;signature=AQAAAYRZRV8BizXDwd29rW0NlpngihMBShnwlfF371TTl4ts&amp;gcReferrer=https%3A%2F%2Fwww.apple.com%2Fnewsroom%2F2024%2F10%2Fapple-intelligence-is-available-today-on-iphone-ipad-and-mac%2F" class="rapid-with-clickid" data-original-link="https://www.apple.com/newsroom/2024/10/apple-intelligence-is-available-today-on-iphone-ipad-and-mac/">variety of new features</a> you can use on your iPhone, iPad or Mac if they're one of the eligible devices.</p>
+<p>
+<strong>New Photos app additions:</strong> While a <a data-i13n="cpos:12;pos:1" href="https://www.engadget.com/how-apple-redesigned-its-photos-app-around-customization-120038901.html">new Photos app</a> is available for everyone who upgraded to iOS 18, iPhones compatible with Apple Intelligence (and running iOS 18.1 or newer) also get a new Clean Up tool that lets you remove background objects from your pictures with just a tap. For instance, you can remove strangers from your family photo at the beach or that piece of laundry you forgot to put away. And if you have thousands of photos and videos saved, you can now find what you're looking for by describing it — show all photos featuring a blue house with a red door, for example.</p>
+<p>
+<strong>Writing Tools:</strong> You can use this in most apps to help proofread your text, as well as craft different versions of what you've written until you find the right words. For example, if you need to write a cover letter or send an email to your boss, you can use Writing Tools to help you communicate what you need to say. This tool will also summarize an entire lecture for you, or any text you select. More features will be added in future updates.</p>
+<p>
+<strong>Summarized notifications:</strong> If you receive dozens of notifications each day, you'll now see a summary of the messages to make it easier to read through them.</p>
+<p>
+<strong>Siri improvements:</strong> Apple has given Siri an AI makeover to make conversations with the smart assistant more natural, but more. And for your convenience, you'll be able to switch back and forth between giving commands by voice or by typing to Siri. The bot also comes with "richer language-understanding capabilities," which is helpful if you tend to jump from thought to thought while talking.&nbsp;</p>
+<p>
+<strong>Siri improvements:</strong> Apple is pledging to make Siri more dynamic and useful with a series of upgrades coming in 2025. In the meantime, you can now switch back and forth between giving commands by voice or by typing. The assistant is also now said to offer "richer language-understanding capabilities," which is helpful if you tend to jump from thought to thought while talking. And it now features a new interface, which shows a glowing edge on your screen when activated.&nbsp;</p>
+<p>
+</p>
+<h2 id="jump-link-which-devices-are-compatible-with-apple-intelligence">Which devices are compatible with Apple Intelligence?</h2>
+<p>
+<a data-i13n="cpos:13;pos:1" href="https://www.engadget.com/apple-intelligence-what-devices-and-features-will-actually-be-supported-185850732.html">Compatibility with Apple Intelligence</a> is largely limited to very recent iPhones, as well as Macs and iPads with Apple's M-series Apple Silicon chips.<em>&nbsp;</em>Here's the full list of devices that will work with Apple Intelligence.</p>
+<ul>
+<li>
+<p>iPhone 16</p>
+</li>
+<li>
+<p>iPhone 16 Plus</p>
+</li>
+<li>
+<p>iPhone 16 Pro</p>
+</li>
+<li>
+<p>iPhone 16 Pro Max</p>
+</li>
+<li>
+<p>iPhone 15 Pro</p>
+</li>
+<li>
+<p>iPhone 15 Pro Max</p>
+</li>
+<li>
+<p>iPad Pro: M1 and later</p>
+</li>
+<li>
+<p>iPad Air: M1 and later</p>
+</li>
+<li>
+<p>iPad Mini: A17 Pro</p>
+</li>
+<li>
+<p>MacBook Air: M1 and later</p>
+</li>
+<li>
+<p>MacBook Pro: M1 and later</p>
+</li>
+<li>
+<p>iMac: M1 and later</p>
+</li>
+<li>
+<p>Mac mini: M1 and later</p>
+</li>
+<li>
+<p>Mac Studio: M1 Max and later</p>
+</li>
+<li>
+<p>Mac Pro: M2 Ultra</p>
+</li>
+</ul>
+<h2 id="jump-link-what-regions-and-languages-support-apple-intelligence">What regions and languages support Apple Intelligence?</h2>
+<p>To use Apple Intelligence on an eligible device, make sure Siri's language is set to US English – this should work for most regions around the world. In December, English language support for Australia, Canada, Ireland, New Zealand, South Africa and the UK will be available.</p>
+<p>For European Union (EU) Apple device users, Apple Intelligence should now be available on their eligible macOS devices. They'll gain <a data-i13n="cpos:14;pos:1" href="https://www.engadget.com/ai/apple-intelligence-is-coming-to-eu-iphones-and-ipads-in-april-191028410.html">access on their iPhones and iPads in April</a>.</p>
+<p>In 2025, Apple expects to have support for additional languages like Chinese, English (India and Singapore), French, German, Italian, Japanese, Korean, Portuguese, Spanish, Vietnamese and more.</p>This article originally appeared on Engadget at https://www.engadget.com/mobile/apple-intelligence-whats-new-in-ios-182-223004890.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/mobile/apple-intelligence-whats-new-in-ios-182-223004890.html?src=rss</link>
+<guid>f1fb09af-1740-4463-bf56-b1862976996b</guid>
+<pubDate>Mon, 09 Dec 2024 22:30:04 +0000</pubDate>
+<media:thumbnail>https://s.yimg.com/os/creatr-uploaded-images/2024-12/c68ac0e0-b273-11ef-b91f-3ca68798b400</media:thumbnail>
+</item>
+<item>
+<title>Musicians demand music labels drop their Internet Archive lawsuit</title>
+<description>
+<![CDATA[<p>Musicians Tegan &amp; Sara, Open Mike Eagle, Kathleen Hanna of Bikini Kill and more <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.fightforthefuture.org/news/2024-12-09-350-musicians-demand-major-labels-drop-their-suit-to-destroy-the-internet-archive-major-change-in-the-music-industry/" data-original-link="https://www.fightforthefuture.org/news/2024-12-09-350-musicians-demand-major-labels-drop-their-suit-to-destroy-the-internet-archive-major-change-in-the-music-industry/">
+<ins>have signed a letter</ins>
+</a> organized by Fight for the Future demanding music labels drop their <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/sony-and-other-music-labels-sue-internet-archive-for-digitizing-old-records-110108988.html" data-original-link="https://www.engadget.com/sony-and-other-music-labels-sue-internet-archive-for-digitizing-old-records-110108988.html">
+<ins>lawsuit against the Internet Archive</ins>
+</a>, the online library and nonprofit best known for the Wayback Machine.</p>
+<p>“We, the undersigned musicians, wholeheartedly oppose major record labels’ unjust lawsuit targeting the Internet Archive,” the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://docs.google.com/document/d/1GT4wwEJxI8PMEgdQ7NlemiH0iPXzEjFY35yhyW8mQYs/edit?tab=t.0" data-original-link="https://docs.google.com/document/d/1GT4wwEJxI8PMEgdQ7NlemiH0iPXzEjFY35yhyW8mQYs/edit?tab=t.0">
+<ins>Musicians for Fairness and Preservation Open Letter</ins>
+</a> reads. “We don’t believe that the Internet Archive should be destroyed in our name.” Instead, the letter offers three alternative ways the lives of musicians could be materially improved: By partnering with organizations like the Internet Archive to preserve original recordings and music culture, allowing musicians to keep 100 percent of merchandise sales and ending vertical investments in streaming services like Spotify.</p>
+<span id="end-legacy-contents">
+</span>
+<p>The advent of streaming services already made being a working musician highly unprofitable, but as the letter notes, things like the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.theguardian.com/music/2024/apr/25/shocking-truth-money-bands-make-on-tour-taylor-swift" data-original-link="https://www.theguardian.com/music/2024/apr/25/shocking-truth-money-bands-make-on-tour-taylor-swift">
+<ins>COVID-19 pandemic</ins>
+</a> and <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ticketmaster-owner-sued-by-doj-and-30-attorneys-general-over-alleged-monopoly-160153725.html" data-original-link="https://www.engadget.com/ticketmaster-owner-sued-by-doj-and-30-attorneys-general-over-alleged-monopoly-160153725.html">
+<ins>Live Nation’s monopoly on ticket sales</ins>
+</a> have made it nearly impossible to perform without some kind of extra expense.</p>
+<p>The original lawsuit put forth by labels like Sony Music Entertainment and Universal Music Group was specifically targeted at the Internet Archive’s <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://great78.archive.org/" data-original-link="https://great78.archive.org/">
+<ins>Great 78 Project</ins>
+</a>, which aims to preserve music recorded on 78 RPM records. The project has over 400,000 recordings available to stream, including music from well-known artists like Ella Fitzgerald, Billie Holiday, and Frank Sinatra. If the labels win their lawsuit, the Internet Archive could be on the hook for up to $621 million dollars in damages to account for the music streamed through the Archive since 2006, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/" data-original-link="https://www.rollingstone.com/music/music-features/internet-archive-major-label-music-lawsuit-1235105273/">
+<em>
+<ins>Rolling Stone </ins>
+</em>
+<ins>writes</ins>
+</a>.</p>
+<p>Music isn’t the only front where the Internet Archive is fighting. The organization recently <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:8;pos:1" class="no-affiliate-link" href="https://www.engadget.com/big-tech/the-internet-archive-loses-its-appeal-of-ebook-copyright-case-ruling-202452279.html" data-original-link="https://www.engadget.com/big-tech/the-internet-archive-loses-its-appeal-of-ebook-copyright-case-ruling-202452279.html">
+<ins>lost its appeal</ins>
+</a> in an ongoing lawsuit with publishers <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:9;pos:1" class="no-affiliate-link" href="https://www.engadget.com/internet-archive-violated-publisher-copyrights-by-lending-ebooks-court-rules-164629790.html" data-original-link="https://www.engadget.com/internet-archive-violated-publisher-copyrights-by-lending-ebooks-court-rules-164629790.html">
+<ins>over digital book lending</ins>
+</a>. The Internet Archive claims its digital book library can lend out eBooks under the fair use doctrine, but multiple judges have now disagreed.</p>This article originally appeared on Engadget at https://www.engadget.com/entertainment/music/musicians-demand-music-labels-drop-their-internet-archive-lawsuit-214139644.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/entertainment/music/musicians-demand-music-labels-drop-their-internet-archive-lawsuit-214139644.html?src=rss</link>
+<guid>102c1176-057c-44c7-bcef-09d86d013b3c</guid>
+<pubDate>Mon, 09 Dec 2024 21:41:39 +0000</pubDate>
+</item>
+<item>
+<title>Chinese regulators are investigating NVIDIA for potential antitrust violations</title>
+<description>
+<![CDATA[<p>NVIDIA, graphics chip maker and recent backbone of the AI industry, is under investigation by Chinese regulators over potential antitrust violations, <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.nytimes.com/2024/12/09/technology/china-nvidia-investigation-antitrust-ai.html" data-original-link="https://www.nytimes.com/2024/12/09/technology/china-nvidia-investigation-antitrust-ai.html">
+<em>
+<ins>The New York Times </ins>
+</em>
+<ins>reports</ins>
+</a>. The concerns center on the acquisition of Mellanox Technologies, a computer networking company <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-mellanox-creating-major-force-driving-next-gen-data-centers" data-original-link="https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-mellanox-creating-major-force-driving-next-gen-data-centers">
+<ins>NVIDIA bought in 2020</ins>
+</a>.</p>
+<p>As part of the conditions of that acquisition, Chinese regulators required NVIDIA to “provide information about new [Mellanox] products to rivals within 90 days of making them available to NVIDIA,” <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2024-12-09/china-targets-nvidia-for-potential-breaches-of-anti-monopoly-law?srnd=homepage-americas" data-original-link="https://www.bloomberg.com/news/articles/2024-12-09/china-targets-nvidia-for-potential-breaches-of-anti-monopoly-law?srnd=homepage-americas">
+<em>
+<ins>Bloomberg </ins>
+</em>
+<ins>writes</ins>
+</a>. China’s State Administration for Market Regulation is kicking off its investigation because it believes that those terms were violated. This wouldn’t be the first time NVIDIA has been investigated for monopolistic behavior – The US Department of Justice reportedly launched <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:4;pos:1" class="no-affiliate-link" href="https://www.engadget.com/ai/doj-subpoenas-nvidia-as-part-of-antitrust-probe-regarding-ai-processors-153435877.html" data-original-link="https://www.engadget.com/ai/doj-subpoenas-nvidia-as-part-of-antitrust-probe-regarding-ai-processors-153435877.html">
+<ins>its own antitrust investigation</ins>
+</a> into NVIDIA in September 2024 – but it has a different flavor in the context of the escalating trade war between the US and China.</p>
+<span id="end-legacy-contents">
+</span>
+<p>On December 1, the US Department of Commerce announced export restrictions and sanctions on 140 Chinese companies producing chipmaking tools, and on “China-bound shipments of high bandwidth memory chips,” <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:5;pos:1" class="no-affiliate-link" href="https://www.reuters.com/technology/latest-us-strike-chinas-chips-hits-semiconductor-toolmakers-2024-12-02/" data-original-link="https://www.reuters.com/technology/latest-us-strike-chinas-chips-hits-semiconductor-toolmakers-2024-12-02/">
+<em>
+<ins>Reuters </ins>
+</em>
+<ins>writes</ins>
+</a>. The goal was fairly clear: the US wanted to limit China’s ability to develop advanced AI by preventing it from creating the kind of chips used to train and run it. This fight goes both ways, of course. It seems safe to say that the <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:6;pos:1" class="no-affiliate-link" href="https://www.bloomberg.com/news/articles/2024-12-03/china-bans-germanium-gallium-exports-to-us-in-tit-for-tat-move" data-original-link="https://www.bloomberg.com/news/articles/2024-12-03/china-bans-germanium-gallium-exports-to-us-in-tit-for-tat-move">
+<ins>Chinese ban</ins>
+</a> on all shipments of gallium, germanium, and antimony to the US was a response.</p>
+<p>Threatening NVIDIA makes sense on a few fronts. The company’s H100 GPUs were used to train the vast majority of generative AI models used today, something that doesn’t seem likely to change with the Blackwell chips <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:7;pos:1" class="no-affiliate-link" href="https://www.engadget.com/nvidias-gpus-powered-the-ai-revolution-its-new-blackwell-chips-are-up-to-30-times-faster-001059577.html" data-original-link="https://www.engadget.com/nvidias-gpus-powered-the-ai-revolution-its-new-blackwell-chips-are-up-to-30-times-faster-001059577.html">
+<ins>Nvidia announced earlier this year</ins>
+</a>. That’s made it <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:8;pos:1" class="no-affiliate-link" href="https://www.nytimes.com/2024/06/18/technology/nvidia-most-valuable-company.html" data-original-link="https://www.nytimes.com/2024/06/18/technology/nvidia-most-valuable-company.html">
+<ins>one of the most valuable companies in the world</ins>
+</a> as AI speculation has run rampant, and a big target for governmental oversight. Plus, <em>Bloomberg</em> writes that NVIDIA gets some 15 percent of its revenue from China. However the investigation resolves, NVIDIA feels like a logical next step to escalate the US and China’s conflict even further.</p>This article originally appeared on Engadget at https://www.engadget.com/computing/chinese-regulators-are-investigating-nvidia-for-potential-antitrust-violations-200136726.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/computing/chinese-regulators-are-investigating-nvidia-for-potential-antitrust-violations-200136726.html?src=rss</link>
+<guid>1747f808-fda2-4f4e-9f1f-dae6d45d997e</guid>
+<pubDate>Mon, 09 Dec 2024 20:01:36 +0000</pubDate>
+</item>
+<item>
+<title>TikTok asks court to delay the law that would ban its app next month</title>
+<description>
+<![CDATA[<p>TikTok is beginning its last-ditch legal challenge to avoid a ban in the United States. The company filed an <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://newsroom.tiktok.com/en-us/tiktok-files-emergency-motion-for-injunction" data-original-link="https://newsroom.tiktok.com/en-us/tiktok-files-emergency-motion-for-injunction">
+<ins>emergency injunction</ins>
+</a> in federal court Monday, asking for a delay in the law that would ban the app from taking effect so it could have time to mount a Supreme Court challenge.</p>
+<p>The new court filing comes just three days after the company <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:2;pos:1" class="no-affiliate-link" href="https://www.engadget.com/social-media/tiktok-inches-closer-to-a-us-ban-after-judges-shoot-down-appeal-172748902.html" data-original-link="https://www.engadget.com/social-media/tiktok-inches-closer-to-a-us-ban-after-judges-shoot-down-appeal-172748902.html">
+<ins>lost</ins>
+</a> its initial court challenge to the law, currently set to take effect January 19, 2025, that requires app stores and internet providers to block TikTok if ByteDance doesn’t sell the app. In their <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:3;pos:1" class="no-affiliate-link" href="https://www.politico.com/f/?id=00000193-9cbc-df60-a797-ffbfe6400000" data-original-link="https://www.politico.com/f/?id=00000193-9cbc-df60-a797-ffbfe6400000">
+<ins>ruling</ins>
+</a>, a panel of three appeals court judges wrote that the US government had “persuasive national security justifications that apply specifically to the platform that TikTok operates.”</p>
+<span id="end-legacy-contents">
+</span>
+<p>TikTok has argued the law is unconstitutional and that it would unjustly hurt creators and businesses that rely on its service. “Estimates show that small businesses on TikTok would lose more than $1 billion in revenue and creators would suffer almost $300 million in lost earnings in just one month unless the TikTok Ban is halted,” TikTok said in a statement Monday.</p>
+<p>In its latest filing, TikTok notes that President-elect Donald Trump has promised to “save” the app and that temporarily halting the law would allow “the incoming Administration to evaluate this matter.” Right now, the law is slated to take effect the day before Trump’s inauguration.</p>
+<p>The company requested a decision by December 16. Even if the injunction isn’t granted, it’s still not quite the end of the line for the company’s legal challenges. If the Supreme Court ends up taking on the case, TikTok would have another opportunity to try to get the law overturned.</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/tiktok-asks-court-to-delay-the-law-that-would-ban-its-app-next-month-192427139.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/social-media/tiktok-asks-court-to-delay-the-law-that-would-ban-its-app-next-month-192427139.html?src=rss</link>
+<guid>f938816a-0cd6-49c5-a11f-903f7f117576</guid>
+<pubDate>Mon, 09 Dec 2024 19:24:27 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI's Sora video generation AI model arrives globally later today</title>
+<description>
+<![CDATA[<p>Following <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/openais-new-sora-model-can-generate-minute-long-videos-from-text-prompts-195717694.html">an early preview at the start of the year</a>, Sora, OpenAI&#39;s long-awaited video generation model, is ready for public use. If you&#39;re a ChatGPT Plus or Pro subscriber in the US or &quot;most other countries&quot; where the chatbot is available, you can begin experimenting with the tool starting later today, OpenAI <a data-i13n="cpos:2;pos:1" href="https://openai.com/index/sora-is-here/">announced on Monday</a>. A more powerful model powers the product than the one OpenAI showed off in February. Sora Turbo is significantly faster, according to the company, though OpenAI cautions the new model still has limitations. &quot;It often generates unrealistic physics and struggles with complex actions over long durations,&quot; says the company.&nbsp;</p>
+<p>When users first visit the <a data-i13n="cpos:3;pos:1" href="https://sora.com/">dedicated landing page</a> OpenAI has set up for Sora, they&#39;ll be greeted with a feed of videos the model has created for other people. By clicking on a video, you&#39;ll be able to see the exact prompt someone gave Sora to generate the footage you see. From here, you can also decide to re-cut a video, blend it into a clip you&#39;re working on, or remix it. In this initial release, OpenAI is limiting Sora to generating videos that are up to 1080p and 20 seconds long.&nbsp;</p>
+<span id="end-legacy-contents">
+</span>
+<div id="390eb0b4af4c44c396d91f79e8826099">
+<iframe src="https://www.youtube.com/embed/2jKVx2vyZOY?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen="" scrolling="no" data-embed-domain="www.youtube.com">
+</iframe>
+</div>
+<p>ChatGPT Plus subscribers can use Sora to create up to 50 videos at 480p per month. Alternatively, Plus users can generate fewer (and shorter) videos at 720p. OpenAI says the Pro plan affords 10 times as much usage, at higher resolutions and longer durations. &quot;We’re working on tailored pricing for different types of users, which we plan to make available early next year,&quot; the company adds.</p>
+<p>For safety purposes, each video features a visible watermark by default and contains C2PA metadata to assist with identification. OpenAI says it will block users from using Sora to create child sexual abuse materials (CSAM) and sexual deepfakes. More broadly, the company plans to limit uploads of people until it has time to refine its safeguards against deepfakes.&nbsp;</p>
+<p>Even if you don&#39;t have a ChatGPT subscription, you can still visit the Sora website to see what other people are using the tool to create. During today&#39;s livestream, OpenAI CEO Sam Altman said it may take some time before Sora arrives in Europe and the UK.&nbsp;</p>This article originally appeared on Engadget at https://www.engadget.com/ai/openais-sora-video-generation-ai-model-arrives-globally-later-today-182613208.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/ai/openais-sora-video-generation-ai-model-arrives-globally-later-today-182613208.html?src=rss</link>
+<guid>bddf153f-e3fb-4934-a7fa-23a1040f08dd</guid>
+<pubDate>Mon, 09 Dec 2024 18:26:14 +0000</pubDate>
+</item>
+<item>
+<title>Cool Gift Approach: Book Kits</title>
+<description>
+<![CDATA[<p>
+<img fetchpriority="high" decoding="async" src="https://cupofjo.com/wp-content/uploads/2024/12/Image-3.jpeg" alt="book lover gift idea" width="1440" height="1080" class="alignnone size-full wp-image-329230" srcset="https://cupofjo.com/wp-content/uploads/2024/12/Image-3.jpeg 1440w, https://cupofjo.com/wp-content/uploads/2024/12/Image-3-644x483.jpeg 644w, https://cupofjo.com/wp-content/uploads/2024/12/Image-3-680x510.jpeg 680w, https://cupofjo.com/wp-content/uploads/2024/12/Image-3-768x576.jpeg 768w, https://cupofjo.com/wp-content/uploads/2024/12/Image-3-1272x954.jpeg 1272w" sizes="(max-width: 1440px) 100vw, 1440px" />
+</p>
+<p>I know we&#8217;re up to our ears in <a href="https://cupofjo.com/category/design/gift-guides/" target="_blank">gift guides</a> at this point, but! My friend <a href="https://www.instagram.com/supermakeit/" target="_blank">Jodi Levine</a> had such a cool idea for how to bring bookish things together, I asked her to show us her approach.&#8230; <a href="https://cupofjo.com/2024/12/09/best-book-gift-idea-kits/" class="read-more">Read more </a>
+</p>
+<p>The post <a href="https://cupofjo.com/2024/12/09/best-book-gift-idea-kits/">Cool Gift Approach: Book Kits</a> appeared first on <a href="https://cupofjo.com">Cup of Jo</a>.</p>
+]]>
+</description>
+<link>https://cupofjo.com/2024/12/09/best-book-gift-idea-kits/</link>
+<guid>https://cupofjo.com/?p=329116</guid>
+<pubDate>Mon, 09 Dec 2024 17:18:03 +0000</pubDate>
+<media:thumbnail>https://cupofjo.com/wp-content/uploads/2024/12/Image-3.jpeg</media:thumbnail>
+</item>
+<item>
+<title>TikTok asks for emergency pause to looming US ban</title>
+<description>The app says the Supreme Court - and incoming Trump administration - needs more time to consider the case.
+
+</description>
+<link>https://www.bbc.com/news/articles/c5yx7e2lx3yo</link>
+<guid>https://www.bbc.com/news/articles/c5yx7e2lx3yo#0</guid>
+<pubDate>Mon, 09 Dec 2024 16:41:06 GMT</pubDate>
+</item>
+<item>
+<title>Google unveils 'mind-boggling' quantum computing chip</title>
+<description>It solves in five minutes a problem computers now would need 10,000,000,000,000,000,000,000,000 years to work out, Google says.</description>
+<link>https://www.bbc.com/news/articles/c791ng0zvl3o</link>
+<guid>https://www.bbc.com/news/articles/c791ng0zvl3o#0</guid>
+<pubDate>Mon, 09 Dec 2024 16:00:58 GMT</pubDate>
+</item>
+<item>
+<title>Google unveils ‘mindboggling’ quantum computing chip</title>
+<description>
+<![CDATA[<p>Chip takes minutes to complete tasks that would otherwise take 10,000,000,000,000,000,000,000,000 years</p>
+<p>It measures just 4cm squared but it possesses almost inconceivable speed.</p>
+<p>Google has built a computing chip that takes just five minutes to complete tasks that would take 10,000,000,000,000,000,000,000,000 years for some of the world’s fastest conventional computers to complete.</p>
+<a href="https://www.theguardian.com/technology/2024/dec/09/google-unveils-mindboggling-quantum-computing-chip">Continue reading...</a>]]>
+</description>
+<link>https://www.theguardian.com/technology/2024/dec/09/google-unveils-mindboggling-quantum-computing-chip</link>
+<guid>https://www.theguardian.com/technology/2024/dec/09/google-unveils-mindboggling-quantum-computing-chip</guid>
+<pubDate>Mon, 09 Dec 2024 16:00:16 GMT</pubDate>
+</item>
+<item>
+<title>One of our favorite robot vacuums is on sale for only $129</title>
+<description>
+<![CDATA[<p>When it comes to robot vacuum cleaners, there's one brand that probably springs to mind before any other. But there are plenty of great options out there beyond Roomba, and one of our favorite models is on sale for nearly half off. The Anker Eufy BoostIQ RoboVac 11S Max has <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:1;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=eaeac9a8-0ddf-4ccb-a6dc-61a107bb43fa&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL2V1ZnktU3VwZXItVGhpbi1TdXBlci1TdHJvbmctU2VsZi1DaGFyZ2luZy1NZWRpdW0tUGlsZS9kcC9CMDdSMjk1TUxTP3RhZz1nZGd0MGMtMjAiLCJjb250ZW50VXVpZCI6ImVhZWFjOWE4LTBkZGYtNGNjYi1hNmRjLTYxYTEwN2JiNDNmYSIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ldWZ5LVN1cGVyLVRoaW4tU3VwZXItU3Ryb25nLVNlbGYtQ2hhcmdpbmctTWVkaXVtLVBpbGUvZHAvQjA3UjI5NU1MUyIsImR5bmFtaWNDZW50cmFsVHJhY2tpbmdJZCI6dHJ1ZSwic2l0ZUlkIjoidXMtZW5nYWRnZXQiLCJwYWdlSWQiOiIxcC1hdXRvbGluayIsImZlYXR1cmVJZCI6InRleHQtbGluayJ9&amp;signature=AQAAAUDPGDJz9c9aI-v3y9r9q9slWgcdRXiYPMxMnIZ3E53-&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2Feufy-Super-Thin-Super-Strong-Self-Charging-Medium-Pile%2Fdp%2FB07R295MLS" class="rapid-with-clickid" data-original-link="https://www.amazon.com/eufy-Super-Thin-Super-Strong-Self-Charging-Medium-Pile/dp/B07R295MLS?th=1">dropped to $129</a>, which is a discount of 48 percent or $120.</p>
+<p>This is our pick for the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/home/smart-home/best-budget-robot-vacuums-133030847.html">best ultra budget robot vacuum</a>. Since it has such a deep discount right now, that makes it even more of a budget-friendly recommendation.</p>
+<span id="end-legacy-contents">
+</span>
+<p>
+<core-commerce id="4fd5cc931a2b419cbb03dcb279379d83" data-type="product-list" data-original-url="https://www.amazon.com/eufy-Super-Thin-Super-Strong-Self-Charging-Medium-Pile/dp/B07R295MLS?th=1">
+</core-commerce>
+</p>
+<p>We appreciate the slim profile that makes it easy for the RoboVac 11S to clean under low furniture. We found the vacuum to have a long battery life and good suction power, especially for its size.&nbsp;</p>
+<p>The main drawback is the lack of Wi-Fi connectivity. That means you won't be able to bark a request for a spot clean at your voice assistant. Instead, you'll need to use a remote to control the vacuum, but it still has many of the features you'd expect from an app-operated model, such as scheduled cleanings. You can also start a cleaning by pressing a button on the top of the unit.</p>
+<p>The RoboVac 11S starts cleaning in auto mode with the aim of optimizing the process as it saunters around your home. However, you can select spot cleans and edge cleaning using the remote. One other welcome feature, especially for a robot vacuum in this price range, is the inclusion of effective object detection. So if you're on the hunt for a wallet-friendly robot vacuum for yourself or a loved one, the RoboVac 11S is definitely worth considering — especially at this price.</p>
+<p>
+<em>Follow </em>
+<a data-i13n="cpos:3;pos:1" href="https://twitter.com/EngadgetDeals">
+<em>@EngadgetDeals</em>
+</a>
+<em> on Twitter and subscribe to the Engadget Deals newsletter for the latest tech deals and buying advice.</em>
+</p>This article originally appeared on Engadget at https://www.engadget.com/deals/one-of-our-favorite-robot-vacuums-is-on-sale-for-only-129-154516914.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/deals/one-of-our-favorite-robot-vacuums-is-on-sale-for-only-129-154516914.html?src=rss</link>
+<guid>eaeac9a8-0ddf-4ccb-a6dc-61a107bb43fa</guid>
+<pubDate>Mon, 09 Dec 2024 15:45:16 +0000</pubDate>
+</item>
+<item>
+<title>Bose Smart Soundbar review: Using earbuds as surround sound speakers</title>
+<description>
+<![CDATA[<p>No discussion of a new midrange soundbar would be complete without a mention of its biggest competition, so even though this is a review of a Bose product, let’s address that from the start. Sonos has consistently been our top pick for <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/audio/speakers/best-soundbars-143041791.html">best midrange soundbar</a> for years. The company’s Beam has been a great option for smaller rooms or limited space <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/2018-06-27-sonos-beam-review.html">since it debuted</a> in 2018. <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/sonos-beam-gen-2-review-dolby-atmos-soundbar-130024506.html">The 2021 revamp</a> added Dolby Atmos to the mix, but the price, the lack of upfiring drivers and the subdued bass remained key considerations that may deter shoppers. Three years after the 2nd-gen Beam, Bose is looking to <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/audio/speakers/boses-latest-soundbar-can-use-the-ultra-open-earbuds-as-rear-speakers-130002782.html">take on Sonos</a> and the Beam with the compact, Atmos-friendly <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:5;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=b285c4c9-fa07-49cd-b098-97eaa3081700&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0Jvc2UtU291bmRiYXItQmx1ZXRvb3RoLUFzc2lzdGFudC1DYXBhYmlsaXRpZXMvZHAvQjBENlc4WFE2Sj90YWc9Z2RndDBjLTIwIiwiY29udGVudFV1aWQiOiJiMjg1YzRjOS1mYTA3LTQ5Y2QtYjA5OC05N2VhYTMwODE3MDAiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vQm9zZS1Tb3VuZGJhci1CbHVldG9vdGgtQXNzaXN0YW50LUNhcGFiaWxpdGllcy9kcC9CMEQ2VzhYUTZKIiwiZHluYW1pY0NlbnRyYWxUcmFja2luZ0lkIjp0cnVlLCJzaXRlSWQiOiJ1cy1lbmdhZGdldCIsInBhZ2VJZCI6IjFwLWF1dG9saW5rIiwiZmVhdHVyZUlkIjoidGV4dC1saW5rIn0&amp;signature=AQAAAfWQuhyrglkCju_Dkt2pWiXb5q5FRg06OSNEXVpTtHzb&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FBose-Soundbar-Bluetooth-Assistant-Capabilities%2Fdp%2FB0D6W8XQ6J" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Bose-Soundbar-Bluetooth-Assistant-Capabilities/dp/B0D6W8XQ6J">Smart Soundbar ($499)</a>.</p>
+<p>Bose may be best known for its noise-canceling headphones and earbuds, but the company has a solid track record with speakers and soundbars too. These devices typically exhibit the same fondness for clear, warm sound, which means that finer details are never a problem. Bose also likes to throw in handy features to expand a speaker’s utility, with things like dialog boost, room tuning and more. For the Smart Soundbar though, the company allows you to use a set of its wireless earbuds as rear surround speakers, taking a slightly different approach than Sonos on bringing headphones to the living room.</p>
+<span id="end-legacy-contents">
+</span>
+<p>
+<core-commerce id="1030c63690b84186a96a53dee6aca069" data-type="product-list" data-original-url="https://www.amazon.com/Bose-Soundbar-Bluetooth-Assistant-Capabilities/dp/B0D6W8XQ6J">
+</core-commerce>
+</p>
+<h2 id="jump-link-whats-good-about-the-bose-smart-soundbar">What’s good about the Bose Smart Soundbar?</h2>
+<p>Bose succeeded in building a compact soundbar with a simple design that won’t be much of a distraction on your mantle or TV stand. Five drivers provide ample clarity, so even finer details and sound effects come through clearly, and the speaker arrangement offers pleasant directional audio from the soundbar alone. This is partially due to the fact that Bose employs two upfiring drivers in the center of the speaker. For the times you don’t have access to Dolby Atmos content, Bose’s TrueSpace tech will upmix the sound for a spatial experience.</p>
+<p>The company provides an AI-powered Dialog Mode that re-balances voices against all of the other sounds so that spoken words can be heard clearly at all times. It does so without sacrificing the immersive aspects of the soundstage, so it’s not just a volume boost on the talking. I found Bose’s take on dialog to be among the best I’ve tested, right up there with Sonos, so I left it active during almost all of my testing, which isn’t the case for most soundbars I’ve reviewed.</p>
+<p>The main appeal of the Smart Soundbar will be how Bose chose to integrate a set of its earbuds with the speaker. A feature called Personal Surround Sound puts rear channels inside the <a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/bose-ultra-open-earbuds-review-function-meets-fashion-140015467.html">Ultra Open Earbuds</a>, leaving the main audio coming from the soundbar. Since these earbuds have an open-ear design, you can clearly hear everything, leaving your brain to mash them together in your head. I think Bose wanted to offer something akin to <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/audio/headphones/sonos-ace-headphones-review-an-impressive-but-incomplete-debut-130040041.html">Sonos’ TV Audio Swap</a> without directly copying it, and Personal Surround Sound allows users to add rear speakers with an investment that doesn’t just sit on a shelf when it's not in use.</p>
+<figure>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/2a3cfe90-b63f-11ef-b53b-2bac3902ffe9" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/2a3cfe90-b63f-11ef-b53b-2bac3902ffe9" style="height:1440px;width:2560px;" alt="The Bose app offers a number of options for the Smart Soundbar, including Personal Surround Sound." data-uuid="7e6cc821-9c71-3fea-8a57-15571d35870b">
+<figcaption>
+</figcaption>
+<div class="photo-credit">
+  Billy Steele for Engadget
+ </div>
+</figure>
+<p>Personal Surround works well, and the best part about it is it’s adjustable. There are options for volume, center channel and “height &amp; surround” levels so you can increase or decrease the amplification of each sound source. These three parameters give you the ability to pipe in more than just the would-be rear channels into the earbuds. You can get some dialog via the center channel control, as well as increase the overall volume if the stock effect is too subdued.</p>
+<p>What’s more, you can disable Personal Surround altogether and the Ultra Open Earbuds will play the full audio that’s coming through the Smart Soundbar. Also, lowering the volume on the speaker completely turns the Bose earbuds into something closer to Sonos’ TV Audio Swap, which is great for movies and shows when others are sleeping or don’t want to be disturbed. This mode is what Bose calls SimpleSync, and it’s compatible with the company’s recent Bluetooth speakers as well as the QuietComfort Ultra Headphones, QuietComfort Ultra Earbuds and QuietComfort 45 headphones.</p>
+<p>Another handy feature is the ability to adjust the center and height channels on the Smart Soundbar itself. Bose also gives you the option to raise or lower the bass and treble, as well as a Wall EQ toggle that adjusts the tone if you’ve mounted the speaker under your TV. This is all nice to have, but I used the center channel adjustment the most as cranking it up increased the effect of directional audio coming from the soundbar. There’s a good amount out of the box, but this tweak takes it up a notch, providing some pleasant sound reflections off of nearby walls. It’s great for movies and shows with lots of zooming vehicles and noise, like race clips in <em>Drive to Survive </em>or battle scenes in <em>Rogue One</em>.</p>
+<h2 id="jump-link-whats-not-so-good-about-this-soundbar">What’s not so good about this soundbar?</h2>
+<figure>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/560e0910-b63f-11ef-97ff-313719eeef92" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/560e0910-b63f-11ef-97ff-313719eeef92" style="height:1440px;width:2560px;" alt="There's ample directional audio from the Smart Soundbar right out of the box." data-uuid="eb72cf4c-58e7-370c-9b13-82d22835feb0">
+<figcaption>
+</figcaption>
+<div class="photo-credit">
+  Billy Steele for Engadget
+ </div>
+</figure>
+<p>Like most soundbars, the Smart Soundbar doesn’t produce enough low-end thump on its own to provide a <em>fully</em> immersive audio experience. Despite the crisp detail and good directional movement, the speaker would benefit from Bose’s wireless subwoofer (<a data-i13n="elm:affiliate_link;sellerN:Bose;elmt:;cpos:8;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=da41807c-aae5-49ff-b905-2c3f70122c64&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=b285c4c9-fa07-49cd-b098-97eaa3081700&amp;featureId=text-link&amp;merchantName=Bose&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5ib3NlLmNvbS9jL2hvbWUtdGhlYXRlci9iYXNzLW1vZHVsZXMiLCJjb250ZW50VXVpZCI6ImIyODVjNGM5LWZhMDctNDljZC1iMDk4LTk3ZWFhMzA4MTcwMCIsIm9yaWdpbmFsVXJsIjoiaHR0cHM6Ly93d3cuYm9zZS5jb20vYy9ob21lLXRoZWF0ZXIvYmFzcy1tb2R1bGVzIn0&amp;signature=AQAAAa8uNIqu4D31986CExozbQ4hFEcuzfB1Ek0NF1XDC-Kd&amp;gcReferrer=https%3A%2F%2Fwww.bose.com%2Fc%2Fhome-theater%2Fbass-modules" class="rapid-with-clickid" data-original-link="https://www.bose.com/c/home-theater/bass-modules">starting at $499</a>) for a 5.1 setup. The company also offers two options for rear speakers <a data-i13n="elm:affiliate_link;sellerN:Bose;elmt:;cpos:9;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=da41807c-aae5-49ff-b905-2c3f70122c64&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=b285c4c9-fa07-49cd-b098-97eaa3081700&amp;featureId=text-link&amp;merchantName=Bose&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5ib3NlLmNvbS9jL2hvbWUtdGhlYXRlci9zdXJyb3VuZC1zcGVha2VycyIsImNvbnRlbnRVdWlkIjoiYjI4NWM0YzktZmEwNy00OWNkLWIwOTgtOTdlYWEzMDgxNzAwIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5ib3NlLmNvbS9jL2hvbWUtdGhlYXRlci9zdXJyb3VuZC1zcGVha2VycyJ9&amp;signature=AQAAAce6ObLS2P0XTRN2Wh5IPPbp_MS0n6XrDqJNghmNEsSv&amp;gcReferrer=https%3A%2F%2Fwww.bose.com%2Fc%2Fhome-theater%2Fsurround-speakers" class="rapid-with-clickid" data-original-link="https://www.bose.com/c/home-theater/surround-speakers">starting at $399</a>, which would allow everyone in the room to enjoy the added surround channels. Is the Smart Soundbar good enough on its own for smaller spaces? Probably for TV and movies, but if you’re tapping it to pull double duty as a music speaker, you’ll want to add a sub.</p>
+<p>Bose’s Personal Surround Sound feature is a nice perk, but only one person can use it at a time, so it’s really for solo watching at this point. Unless, of course, you want to be a jerk and give yourself the expanded sound and leave your partner, family or friends with the stock experience.</p>
+<p>Functionally, the Smart Soundbar responded to my commands and all of its modes worked well. One thing that did annoy me was its reluctance to automatically find the correct input when I turned the TV on after listening to music over AirPlay. Every other soundbar I’ve tested will begin playing TV audio when the screen flickers on, although some may take a few seconds longer than others to kick in. With this soundbar, I sometimes had to select the audio source in the app for things to work properly.</p>
+<p>I’m not one to harp on soundbar remotes, but I’m compelled to do so here. The accessory Bose includes with the Smart Soundbar feels very cheap. It’s similar to what might come with a fan or lamp, although this one has a more robust plastic frame so it’s slightly sturdier. I understand the desire to include a remote control with a $500 soundbar, but it either needed a little more polish or Bose could’ve just left all of the controls to the app.</p>
+<h2 id="jump-link-final-verdict-on-the-bose-smart-soundbar">Final verdict on the Bose Smart Soundbar</h2>
+<figure>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/b841a740-b63f-11ef-a96f-1dd1a92f2920" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/b841a740-b63f-11ef-a96f-1dd1a92f2920" style="height:1440px;width:2560px;" alt="You can use Bose's Ultra Open Earbuds as rear surround speakers with this soundbar. " data-uuid="9f1397bf-c738-31e0-ac50-503ed26eb0ce">
+<figcaption>
+</figcaption>
+<div class="photo-credit">
+  Billy Steele for Engadget
+ </div>
+</figure>
+<p>The <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:10;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=b285c4c9-fa07-49cd-b098-97eaa3081700&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0Jvc2UtU291bmRiYXItQmx1ZXRvb3RoLUFzc2lzdGFudC1DYXBhYmlsaXRpZXMvZHAvQjBENlc4WFE2Sj90YWc9Z2RndDBjLTIwIiwiY29udGVudFV1aWQiOiJiMjg1YzRjOS1mYTA3LTQ5Y2QtYjA5OC05N2VhYTMwODE3MDAiLCJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd3d3LmFtYXpvbi5jb20vQm9zZS1Tb3VuZGJhci1CbHVldG9vdGgtQXNzaXN0YW50LUNhcGFiaWxpdGllcy9kcC9CMEQ2VzhYUTZKIiwiZHluYW1pY0NlbnRyYWxUcmFja2luZ0lkIjp0cnVlLCJzaXRlSWQiOiJ1cy1lbmdhZGdldCIsInBhZ2VJZCI6IjFwLWF1dG9saW5rIiwiZmVhdHVyZUlkIjoidGV4dC1saW5rIn0&amp;signature=AQAAAfWQuhyrglkCju_Dkt2pWiXb5q5FRg06OSNEXVpTtHzb&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FBose-Soundbar-Bluetooth-Assistant-Capabilities%2Fdp%2FB0D6W8XQ6J" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Bose-Soundbar-Bluetooth-Assistant-Capabilities/dp/B0D6W8XQ6J">Smart Soundbar</a> is the same price as the Sonos Beam, which remains great for smaller spaces, and is just a more compact option in general. There are a lot of similarities between the Beam and Smart Soundbar, and a few small but notable differences. Sonos’ advantage lies in its TV Audio Swap tool and larger ecosystem, though that edge is hampered by <a data-i13n="cpos:11;pos:1" href="https://www.engadget.com/audio/speakers/why-is-the-sonos-app-so-broken-140028060.html">the ongoing app rebuild</a>. Sonos also provides dynamic head tracking for even more immersion, which Bose’s soundbar lacks. Bose offers multiroom audio with the Smart Soundbar and you can use the Ultra Open Earbuds for personal listening of TV sound on top of the surround feature.&nbsp;</p>
+<p>It’s clear that Bose is taking aim at Sonos with the Smart Soundbar, so the question then becomes which company’s audio tuning do you prefer. Since they both offer things like Atmos audio, room calibration, dialog enhancement and headphone use, the choice comes down to personal sonic sensibilities. I think Bose does enough with its earbud integration to make this a tough decision, so long as you're willing to spend the $300 to get the additional device.</p>This article originally appeared on Engadget at https://www.engadget.com/audio/speakers/bose-smart-soundbar-review-using-earbuds-as-surround-sound-speakers-153028639.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/audio/speakers/bose-smart-soundbar-review-using-earbuds-as-surround-sound-speakers-153028639.html?src=rss</link>
+<guid>b285c4c9-fa07-49cd-b098-97eaa3081700</guid>
+<pubDate>Mon, 09 Dec 2024 15:30:28 +0000</pubDate>
+<media:thumbnail>https://s.yimg.com/os/creatr-uploaded-images/2024-12/2a3cfe90-b63f-11ef-b53b-2bac3902ffe9</media:thumbnail>
+</item>
+<item>
+<title>Indiana Jones and the Great Circle review – whip-smart, fascist-fighting, open-world adventuring</title>
+<description>
+<![CDATA[<p>The archeologist heads to Vatican City and the Egyptian Pyramids in this unconventional blockbuster, for lots of cleverly designed stealth, combat and puzzle-solving fun</p>
+<p>Making an Indiana Jones game today seems like a straightforward endeavour: you take <a href="https://www.theguardian.com/technology/2016/apr/07/nathan-drake-uncharted-4-naughty-dog">Uncharted’s Nathan Drake</a>, send him back in time 80-odd years, give him a fedora and a bullwhip and sit back and watch the golden idols roll in. The Uncharted developer Naughty Dog perfected the template for Indy-inspired globetrotting action games more than a decade ago, and nobody would blame Swedish studio MachineGames if it stuck to it.</p>
+<p>Indiana Jones and the Great Circle opts not to. Instead, it often goes out of its way to frustrate such comparisons. This unconventional blockbuster has more in common with games such as <a href="https://www.theguardian.com/technology/gamesblog/2012/oct/08/dishonored-review">Dishonored</a> and <a href="https://www.theguardian.com/games/2021/jan/22/hitman-3-review-a-wild-bacchanalian-backdrop-to-bloody-escapades">Hitman</a> than it does with Uncharted. Sure, it has action and spectacle and occasionally dabbles in platforming, but it places far greater emphasis on puzzles, open-ended stealth, and letting you beat the snot out of fascists while dressed as a priest.</p>
+<a href="https://www.theguardian.com/games/2024/dec/09/indiana-jones-and-the-great-circle-review">Continue reading...</a>]]>
+</description>
+<link>https://www.theguardian.com/games/2024/dec/09/indiana-jones-and-the-great-circle-review</link>
+<guid>https://www.theguardian.com/games/2024/dec/09/indiana-jones-and-the-great-circle-review</guid>
+<pubDate>Mon, 09 Dec 2024 15:26:34 GMT</pubDate>
+</item>
+<item>
+<title>Google Pixel tablets are up to 30 percent off</title>
+<description>
+<![CDATA[<p>With Christmas approaching, the Google Pixel Tablet is currently 30 percent off — at least the 128GB version. It’s currently $279, the lowest price it’s ever been since its release.</p>
+<p>The Google Pixel Tablet has an 11-inch screen with a resolution of 2560x1600 pixels, making it suitable for streaming content. The tablet is compatible with the Charging Speaker Dock (sold separately). If you need a little more convincing, we named it one of our <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/best-android-tablet-120007530.html">
+<ins>best Android tablets for 2024</ins>
+</a>.</p>
+<span id="end-legacy-contents">
+</span>
+<p>
+<core-commerce id="c98ce5ec32654cedb729079f6579a1c6" data-type="product-list" data-original-url="https://www.amazon.com/Google-Pixel-Tablet-Android-Extra-Long/dp/B0CZMFZ84J?">
+</core-commerce>
+</p>
+<p>If 128GB of onboard memory isn’t enough for you, the Google Pixel Tablet also comes in a <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:2;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=e6d8b7cf-f776-446b-a6dd-3401a665fa62&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0dvb2dsZS1QaXhlbC1UYWJsZXQtQW5kcm9pZC1FeHRyYS1Mb25nL2RwL0IwQ1pNOU40WlM_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiZTZkOGI3Y2YtZjc3Ni00NDZiLWE2ZGQtMzQwMWE2NjVmYTYyIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0dvb2dsZS1QaXhlbC1UYWJsZXQtQW5kcm9pZC1FeHRyYS1Mb25nL2RwL0IwQ1pNOU40WlMiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAc-ALO8XqAYBuzXUxuqN6lc3VAfJt7B7FnvJiIvoTVax&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Tablet-Android-Extra-Long%2Fdp%2FB0CZM9N4ZS" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Google-Pixel-Tablet-Android-Extra-Long/dp/B0CZM9N4ZS?th=1">
+<ins>256GB version</ins>
+</a>, which is 28 percent off at $359. Every other specification is identical to the standard 128GB model, but having double the memory means you can download more pictures, apps and YouTube videos for offline watching. As with Google’s Pixel smartphones, the Pixel Tablet works with <a data-i13n="cpos:3;pos:1" href="https://support.google.com/googlepixeltablet/thread/303931209/gemini-is-now-available-on-pixel-tablet?hl=en">
+<ins>Gemini</ins>
+</a>, the tech giant’s AI chatbot.</p>
+<p>For those who use tablets as their primary work device, the Google Pixel Tablet supports Split Screen. This feature lets you open two apps side-by-side and use them simultaneously. It’s great for multitasking.</p>
+<p>
+<em>Follow </em>
+<a data-i13n="cpos:4;pos:1" href="https://twitter.com/EngadgetDeals">
+<em>@EngadgetDeals</em>
+</a>
+<em> on Twitter and subscribe to the Engadget Deals newsletter for the latest tech deals and buying advice.</em>
+</p>This article originally appeared on Engadget at https://www.engadget.com/deals/google-pixel-tablets-are-up-to-30-percent-off-152043181.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/deals/google-pixel-tablets-are-up-to-30-percent-off-152043181.html?src=rss</link>
+<guid>e6d8b7cf-f776-446b-a6dd-3401a665fa62</guid>
+<pubDate>Mon, 09 Dec 2024 15:20:45 +0000</pubDate>
+</item>
+<item>
+<title>Elgato's Stream Deck Neo is cheaper than ever</title>
+<description>
+<![CDATA[<p>The holiday season is upon us and, while that means lots of merriment and fun, it also brings the inevitable stress of picking gifts for all your loved ones. We have list after list of some of <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/the-best-christmas-gifts-that-cover-everyone-on-your-2024-holiday-list-170018838.html">the best gifts</a> to get <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/best-gifts-for-moms-130044386.html">your mom</a>, <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/best-gifts-for-runners-140015714.html">runners</a>, <a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/best-gifts-for-book-lovers-160047468.html">book lovers</a>, <a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/gaming/best-gaming-gifts-for-gamers-150008483.html">gamers</a> and others, but sometimes the greatest presents come from following the sales.&nbsp;</p>
+<p>That brings us to Amazon's current deal on the <a data-i13n="elm:affiliate_link;sellerN:Amazon;elmt:;cpos:6;pos:1" href="https://shopping.yahoo.com/rdlw?merchantId=66ea567a-c987-4c2e-a2ff-02904efde6ea&amp;siteId=us-engadget&amp;pageId=1p-autolink&amp;contentUuid=49e22786-a04e-48d4-af22-15c42e450e71&amp;featureId=text-link&amp;merchantName=Amazon&amp;custData=eyJzb3VyY2VOYW1lIjoiV2ViLURlc2t0b3AtVmVyaXpvbiIsImxhbmRpbmdVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0VsZ2F0by1TdHJlYW0tRGVjay1OZW8tQ3VzdG9taXphYmxlL2RwL0IwQ1ZZNDU2Nkg_dGFnPWdkZ3QwYy0yMCIsImNvbnRlbnRVdWlkIjoiNDllMjI3ODYtYTA0ZS00OGQ0LWFmMjItMTVjNDJlNDUwZTcxIiwib3JpZ2luYWxVcmwiOiJodHRwczovL3d3dy5hbWF6b24uY29tL0VsZ2F0by1TdHJlYW0tRGVjay1OZW8tQ3VzdG9taXphYmxlL2RwL0IwQ1ZZNDU2NkgiLCJkeW5hbWljQ2VudHJhbFRyYWNraW5nSWQiOnRydWUsInNpdGVJZCI6InVzLWVuZ2FkZ2V0IiwicGFnZUlkIjoiMXAtYXV0b2xpbmsiLCJmZWF0dXJlSWQiOiJ0ZXh0LWxpbmsifQ&amp;signature=AQAAAVq7gPlzkYAwcio2yrQjYzQNstf7emrCEazcsLYPpTdN&amp;gcReferrer=https%3A%2F%2Fwww.amazon.com%2FElgato-Stream-Deck-Neo-Customizable%2Fdp%2FB0CVY4566H" class="rapid-with-clickid" data-original-link="https://www.amazon.com/Elgato-Stream-Deck-Neo-Customizable/dp/B0CVY4566H?th=1">Elgato Stream Deck Neo</a>. The device is down to an all-time low price of $80, from $100 — a 20 percent discount. The Stream Deck Neo is Elgato's smaller (and much more affordable) take on one of our <a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/gaming/best-game-streaming-gear-160012102.html">favorite game streaming items for 2024</a>: the Stream Deck +. They both have eight customizable keys to make commands easy while streaming. The small but mightly Stream Deck Neo is also built for gaming and making your daily to-do list easier to accomplish with easy shortcuts.&nbsp;</p>
+<span id="end-legacy-contents">
+</span>
+<p>
+<core-commerce id="adfb0168ac434a9d8e44d6197e62eda7" data-type="product-list" data-original-url="https://www.amazon.com/Elgato-Stream-Deck-Neo-Customizable/dp/B0CVY4566H?th=1">
+</core-commerce>
+</p>
+<p>The Elgato Stream Deck Neo has a small display with the time, date and day of the week, making it have a bit of an alarm clock feel. It can integrate with apps like Zoom, PowerPoint, Spotify and more. Plus, you can connect it to your Mac or PC with a USB-C plug. Overall, this is a great gift for anyone in your life interested in streaming or just wanting to access their every day tasks with ease.&nbsp;</p>
+<p>
+<em>Follow </em>
+<a data-i13n="cpos:8;pos:1" href="https://twitter.com/EngadgetDeals">
+<em>@EngadgetDeals</em>
+</a>
+<em> on Twitter and subscribe to the Engadget Deals newsletter for the latest tech deals and buying advice.</em>
+</p>This article originally appeared on Engadget at https://www.engadget.com/deals/elgatos-stream-deck-neo-is-cheaper-than-ever-144531655.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/deals/elgatos-stream-deck-neo-is-cheaper-than-ever-144531655.html?src=rss</link>
+<guid>49e22786-a04e-48d4-af22-15c42e450e71</guid>
+<pubDate>Mon, 09 Dec 2024 14:45:31 +0000</pubDate>
+</item>
+<item>
+<title>The Raspberry Pi 500 is a $90 computer in a keyboard</title>
+<description>
+<![CDATA[<p>Raspberry Pi has just released its new computer-in-a-keyboard, the <a data-i13n="cpos:1;pos:1" href="https://www.raspberrypi.com/products/raspberry-pi-500/">
+<ins>Raspberry Pi 500</ins>
+</a>,  the successor to the <a data-i13n="cpos:2;pos:1" href="https://www.engadget.com/raspberry-pi-400-diy-maker-computer-080002292.html">
+<ins>Raspberry Pi 400</ins>
+</a>. It shares most of the same internal components as the <a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/the-raspberry-pi-5-uses-the-companys-own-chip-designs-061316561.html">
+<ins>Raspberry Pi 5</ins>
+</a>, but with a keyboard shell and improved heatsink — all for $90.</p>
+<p>The Pi 500 is equipped with a 2.4GHz quad-core 64-bit Arm Cortex-A76 CPU and comes with 8GB of RAM. It has three USB A ports (two USB 3.0 ports and one USB 2.0 port) but no USB-C slots besides the charger, which doesn’t support peripherals like mice and docks. Both WiFi and Ethernet are supported natively, along with Bluetooth 5.0. The package also includes a 32GB microSD card preloaded with Raspberry Pi OS, a Linux distribution based on Debian.</p>
+<span id="end-legacy-contents">
+</span>
+<p>Currently, the Pi 500 only has US and UK keyboards, but variants in other languages like Spanish and Japanese are on the way, <a data-i13n="cpos:4;pos:1" href="https://techcrunch.com/2024/12/09/its-a-raspberry-pi-5-in-a-keyboard-and-its-called-the-raspberry-pi-500/">
+<em>
+<ins>TechCrunch</ins>
+</em>
+</a> notes. Depending on the language, the keyboard can have 78 to 83 keys.</p>
+<p>The Raspberry Pi 500, by itself or as a desktop kit, is now available through approved resellers. The $120 desktop kit contains the Pi 500 computer, a mouse, a USB-C power supply, an HDMI cable and a beginner’s guide. Monitors aren’t included in the package, though today Raspberry Pi also introduced its new <a data-i13n="cpos:5;pos:1" href="https://www.raspberrypi.com/products/raspberry-pi-monitor/">
+<ins>Raspberry Pi Monitor</ins>
+</a> for $100.</p>This article originally appeared on Engadget at https://www.engadget.com/computing/the-raspberry-pi-500-is-a-90-computer-in-a-keyboard-142900379.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/computing/the-raspberry-pi-500-is-a-90-computer-in-a-keyboard-142900379.html?src=rss</link>
+<guid>f8bc0839-78d7-4863-ad20-e8af943ccee6</guid>
+<pubDate>Mon, 09 Dec 2024 14:29:00 +0000</pubDate>
+</item>
+<item>
+<title>Reddit introduces AI-powered 'Reddit Answers' search feature</title>
+<description>
+<![CDATA[<p>Earlier this year Reddit <a data-i13n="elm:context_link;elmt:doNotAffiliate;cpos:1;pos:1" class="no-affiliate-link" href="https://www.engadget.com/search-engines-that-dont-pay-up-cant-index-reddit-content-172949170.html" data-original-link="https://www.engadget.com/search-engines-that-dont-pay-up-cant-index-reddit-content-172949170.html">
+<ins>cracked down</ins>
+</a> on AI companies and some major search engines, saying that companies would not be allowed to scrape its site unless they struck licensing deals with the company. Now, the “front page of the internet” is introducing its own AI-powered search feature.</p>
+<p>Called “Reddit Answers,” the feature provides summaries of conversations and posts from across the site in a “conversational interface.” Relying on content from all public, SFW subreddits, the goal is for Reddit to be able to directly provide relevant results for queries that people may otherwise find via Google searches, where it’s become increasingly common to append “Reddit” to queries.</p>
+<span id="end-legacy-contents">
+</span>
+<p>While that sounds a lot like a Reddit-based search engine, VP of product Serkan Piantino says that Reddit Answers isn’t necessarily trying to come up with a singular answer the way you might expect with a Google search. Instead, the tools surfaced a handful of bullet points pulled directly from relevant threads on Reddit. Those conversations are linked directly in the interface, as are relevant subreddits where users can dive deeper into similar topics. “A big theme is that it does sort of guide you towards the content itself, instead of trying to represent an answer on its own,” Piantino tells Engadget.</p>
+<figure>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/42c00100-b41f-11ef-a7df-faebece92c73" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/42c00100-b41f-11ef-a7df-faebece92c73" style="height:1514px;width:2754px;" alt="An example of an Reddit Answers result." data-uuid="3cdec2c5-1f23-3261-88f4-5c480eb2c025">
+<figcaption>
+</figcaption>
+<div class="photo-credit">Reddit</div>
+</figure>
+<p>Reddit gave me early access to the feature and the current version looks a bit like Meta’s AI search suggestions in Instagram, with a few dozen suggested queries and accompanying emoji. The responses, however, are detailed and link directly to highly-upvoted comments from various subreddits where Redditors have previously weighed in on similar topics. That’s helpful because some of the results may not make sense without the broader context from the thread (like in the answer screenshotted adobe that references an image of Price Harry).</p>
+<p>I also noticed that many of Reddit’s built-in suggestions centered around product questions, like “best robot vacuum” or “best vitamin C serum.” While that’s not necessarily surprising — many people already turn to Reddit forums for buying advice — it also raises questions about whether the company could potentially monetize the new search feature. “It's something that we've thought about at a high level, but we have no immediate plans for monetization,” Piantino said when I asked him about it.</p>
+<p>For now, he said, the feature is still in beta and will be rolling out slowly. As of today, Reddit Answers is making its way to a “limited number” of users in the US on web and iOS, with a broader rollout expected sometime next year.</p>This article originally appeared on Engadget at https://www.engadget.com/social-media/reddit-introduces-ai-powered-reddit-answers-search-feature-140028655.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/social-media/reddit-introduces-ai-powered-reddit-answers-search-feature-140028655.html?src=rss</link>
+<guid>a9e093a7-1274-44e1-9b83-8b50ee78be3c</guid>
+<pubDate>Mon, 09 Dec 2024 14:00:28 +0000</pubDate>
+<media:thumbnail>https://s.yimg.com/os/creatr-uploaded-images/2024-12/42c00100-b41f-11ef-a7df-faebece92c73</media:thumbnail>
+</item>
+<item>
+<title>The Morning After: X adds, then quickly removes, Grok’s new photorealistic image generator</title>
+<description>
+<![CDATA[<p>A new image generator called Aurora briefly opened for testing for some Grok users, and the tool’s results shared on X appeared far more realistic than X’s previous image generators. It was a brief debut, though. By Sunday afternoon, Aurora was gone. For a short time, there was a <a data-i13n="cpos:1;pos:1" href="https://www.engadget.com/ai/x-adds-then-quickly-removes-groks-new-aurora-image-generator-181917002.html">Grok 2 + Aurora</a> (beta) option in Grok’s model selection menu, which is now replaced by Grok 2 + Flux (beta). It looks like Aurora may have gone public before it was meant to.</p>
+<p>Grok’s previous image generator was called out for lacking certain restrictions on the content it can produce, like offensive images of politicians and celebrities. <em>TechCrunch </em>was able to generate an image of “a bloodied [Donald] Trump” — the kind of thing AI image generators are restricted from creating. In that brief period, paying Grok users leaped at the chance to put Adam Sandler and Ray Romano in photos together, or <a data-i13n="cpos:2;pos:1" href="https://x.com/EnsoMatt/status/1865423123950064125">Captain Picard in a Christmas hat.</a> Sure. Why not?</p>
+<p>— Mat Smith</p>
+<div id="7736c3ccc33b4f02b46df45e15cce5d0">
+<div style="left:0;width:100%;height:0;position:relative;padding-bottom:56.25%;">
+<iframe src="https://www.youtube.com/embed/1h2r4oWo7ZA?rel=0" style="top:0;left:0;width:100%;height:100%;position:absolute;border:0;" allowfullscreen="" scrolling="no" data-embed-domain="www.youtube.com">
+</iframe>
+</div>
+</div>
+<p>
+<em>Get this delivered daily direct to your inbox.</em>
+<a data-i13n="cpos:3;pos:1" href="https://www.engadget.com/about/newsletter/">
+<em> Subscribe right here!</em>
+</a>
+</p>
+<p>
+<strong>The biggest tech stories you missed</strong>
+</p>
+<ul>
+<li>
+<p>
+<a data-i13n="cpos:4;pos:1" href="https://www.engadget.com/entertainment/what-to-read-this-weekend-family-dysfunction-at-the-end-of-the-world-and-the-woman-who-challenged-victorian-medicine-200144632.html">What to read: Family dysfunction at the end of the world, and the woman who challenged Victorian medicine</a>
+</p>
+</li>
+<li>
+<p>
+<a data-i13n="cpos:5;pos:1" href="https://www.engadget.com/big-tech/x-helped-senators-update-the-kids-online-safety-act-so-it-cant-be-used-to-stifle-expression-221853260.html">X helped senators update the Kids Online Safety Act so it can’t be ‘used to stifle expression’</a>
+</p>
+</li>
+<li>
+<p>
+<a data-i13n="cpos:6;pos:1" href="https://www.engadget.com/entertainment/music/engadget-wrapped-the-music-we-listened-to-the-most-in-2024-143150906.html">Engadget Wrapped: The music we listened to the most in 2024</a>
+</p>
+</li>
+<li>
+<p>
+<a data-i13n="cpos:7;pos:1" href="https://www.engadget.com/social-media/tiktok-inches-closer-to-a-us-ban-after-judges-shoot-down-appeal-172748902.html">TikTok inches closer to a US ban after judges shoot down appeal</a>
+</p>
+</li>
+</ul>
+<p>
+</p>
+<h2 id="jump-link-google-sues-after-consumer-financial-protection-bureau-orders-supervision-of-its-payment-arm">
+<a data-i13n="cpos:8;pos:1" href="https://www.engadget.com/big-tech/google-sues-after-consumer-financial-protection-bureau-orders-supervision-of-its-payment-arm-000829576.html">Google sues after Consumer Financial Protection Bureau orders supervision of its payment arm</a>
+</h2>
+<h3 id="jump-link-its-due-to-complaints-over-the-discontinued-google-pay">It’s due to complaints over the discontinued Google Pay.</h3>
+<h3 id="jump-link-">
+</h3>
+<p>The Consumer Financial Protection Bureau (CFPB) said it has ordered federal supervision of Google Payment Corp. after determining that it meets the legal requirements for such oversight. The CFPB monitors banks, credit unions and other financial institutions and recently finalized a rule to supervise digital payment apps. The CFPB said it has “reasonable cause to determine that Google has engaged in conduct that poses risks to consumers.” Google filed a lawsuit shortly after the announcement to challenge the decision. The risks identified by the CFPB are tied to Google’s handling of erroneous transactions and fraud prevention.</p>
+<p>
+<a data-i13n="cpos:9;pos:1" href="https://www.engadget.com/big-tech/google-sues-after-consumer-financial-protection-bureau-orders-supervision-of-its-payment-arm-000829576.html">
+<strong>Continue reading.</strong>
+</a>
+</p>
+<p>
+</p>
+<span id="end-legacy-contents">
+</span>
+<h2 id="jump-link-fortnite-is-getting-a-5v5-first-person-shooter-mode">
+<a data-i13n="cpos:10;pos:1" href="https://www.engadget.com/gaming/fortnite-is-getting-a-5v5-first-person-shooter-mode-162200195.html">Fortnite is getting a 5v5 first-person shooter mode</a>
+</h2>
+<h3 id="jump-link-the-new-ballistic-mode-will-be-available-in-early-access-this-week">The new Ballistic mode will be available in early access this week.</h3>
+<a href="https://www.engadget.com/gaming/fortnite-is-getting-a-5v5-first-person-shooter-mode-162200195.html">
+<figure>
+<img src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/709a2590-b61a-11ef-94df-f53a0c23f487" data-crop-orig-src="https://s.yimg.com/os/creatr-uploaded-images/2024-12/709a2590-b61a-11ef-94df-f53a0c23f487" style="height:360px;width:640px;" alt="TMA" data-uuid="b87e368f-fd14-3fac-bc83-a2c3d8151593">
+<figcaption>
+</figcaption>
+<div class="photo-credit">Fortnite</div>
+</figure>
+</a>
+<p>A new game mode called Ballistic is coming to <em>Fortnite</em> in early access on December 11, bringing a 5v5 tactical first-person shooter experience. One team will be tasked with planting an explosive device — which detonates 45 seconds after it’s placed — and the other team will try to stop that happening. There will be one map to start and a limited selection of weapons and items.</p>
+<p>
+<a data-i13n="cpos:11;pos:1" href="https://www.engadget.com/gaming/fortnite-is-getting-a-5v5-first-person-shooter-mode-162200195.html">
+<strong>Continue reading.</strong>
+</a>
+</p>This article originally appeared on Engadget at https://www.engadget.com/general/the-morning-after-x-adds-then-quickly-removes-groks-new-photorealistic-image-generator-121552710.html?src=rss]]>
+</description>
+<link>https://www.engadget.com/general/the-morning-after-x-adds-then-quickly-removes-groks-new-photorealistic-image-generator-121552710.html?src=rss</link>
+<guid>ed1cf2ea-f100-4fa6-b116-28f55b17d581</guid>
+<pubDate>Mon, 09 Dec 2024 13:52:34 +0000</pubDate>
+<media:thumbnail>https://s.yimg.com/os/creatr-uploaded-images/2024-12/709a2590-b61a-11ef-94df-f53a0c23f487</media:thumbnail>
+</item>
+</channel>
+</rss>

@@ -2,6 +2,7 @@ import express from 'express';
 import RSSParser from 'rss-parser';
 import { Builder } from 'xml2js';
 import { promises as fs } from 'fs';
+import { supabase } from '../supabaseClient.js'; // Ajoutez '.js' ici
 
 // Fonctions utilitaires
 function extractImageFromDescription(description) {
@@ -27,10 +28,14 @@ const router = express.Router();
 
 router.post('/', async (req, res) => {
     try {
-        const { feedUrls, channelConfig } = req.body;
+        const { feedUrls, channelConfig, user } = req.body;
 
         if (!feedUrls || !Array.isArray(feedUrls) || feedUrls.length === 0) {
             return res.status(400).json({ error: 'Les URLs des flux RSS sont requises' });
+        }
+
+        if (!user || !user.id) {
+            throw new Error('Utilisateur non authentifié');
         }
 
         const parser = new RSSParser({
@@ -145,6 +150,51 @@ router.post('/', async (req, res) => {
         await fs.mkdir(outputDir, { recursive: true });
         const filename = `combined-${Date.now()}.xml`;
         await fs.writeFile(`${outputDir}/${filename}`, xml);
+
+        // Après la génération du XML et l'écriture du fichier, ajoutez :
+        try {
+            // Insérer dans rss_configs
+            const { data: configData, error: configError } = await supabase
+                .from('rss_configs')
+                .insert({
+                    user_id: user.id,
+                    title: channelConfig.title,
+                    description: channelConfig.description,
+                    link: channelConfig.link,
+                    language: channelConfig.language,
+                    nbr_items: channelConfig.itemsLimit
+                })
+                .select();
+
+            if (configError) throw configError;
+
+            const config_id = configData[0].id;
+
+            // Insérer dans rss_sources
+            const sourcesData = feedUrls.map(url => ({
+                config_id: config_id,
+                url: url
+            }));
+
+            const { error: sourcesError } = await supabase
+                .from('rss_sources')
+                .insert(sourcesData);
+
+            if (sourcesError) throw sourcesError;
+
+            // Sauvegarder le XML
+            const { error: feedError } = await supabase
+                .from('rss_combined_feeds')
+                .insert({
+                    config_id: config_id,
+                    xml_content: xml
+                });
+
+            if (feedError) throw feedError;
+        } catch (dbError) {
+            console.error('Erreur Supabase:', dbError);
+            // On continue quand même pour renvoyer le XML
+        }
 
         res.json({
             success: true,

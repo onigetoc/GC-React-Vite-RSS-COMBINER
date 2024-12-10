@@ -7,13 +7,4 @@ if (!supabaseUrl || !supabaseAnonKey) {
   throw new Error('Variables d\'environnement Supabase manquantes')
 }
 
-export const supabase = createClient(supabaseUrl, supabaseAnonKey, {
-  auth: {
-    flowType: 'pkce',
-    persistSession: true,
-    detectSessionInUrl: true,
-    autoRefreshToken: true,
-    storage: window.localStorage,
-    debug: true // Ajout du mode debug pour voir les logs
-  }
-})
+export const supabase = createClient(supabaseUrl, supabaseAnonKey)

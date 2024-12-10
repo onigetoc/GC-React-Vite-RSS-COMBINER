@@ -1,13 +1,27 @@
+- .aider.chat.history.md
+- .aider.input.history
+- .aider.tags.cache.v3
+  - cache.db
+  - cache.db-shm
+  - cache.db-wal
+- .env
+- .env.example
+- .gitignore
 - backend
   - api
+    - combine-rss copy.js
+    - combine-rss-new-script.js
     - combine-rss.js
   - server.js
+- bun.lockb
 - components.json
 - eslint.config.js
+- generated
 - index.html
 - package-lock.json
 - package.json
 - postcss.config.js
+- project-infos.txt
 - project_structure.text
 - public
   - favicon.ico
@@ -19,6 +33,7 @@
   - App.tsx
   - components
     - AuthGuard.tsx
+    - LoadingSpinner.tsx
     - Navigation.tsx
     - ui
       - accordion.tsx
@@ -78,6 +93,7 @@
   - index.css
   - index.tsx
   - lib
+    - languages.ts
     - rss-combiner.ts
     - supabase.ts
     - utils.ts
@@ -86,9 +102,10 @@
     - combine.tsx
     - Index.tsx
     - Login.tsx
-    - rss.tsx
+    - rss-back.tsx
   - styles
     - globals.css
+    - theme.ts
   - vite-env.d.ts
 - tailwind.config.ts
 - tsconfig.app.json

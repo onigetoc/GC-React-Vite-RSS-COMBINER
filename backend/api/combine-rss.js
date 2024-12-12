@@ -149,6 +149,10 @@ router.post('/', async (req, res) => {
         const outputDir = './xml';
         await fs.mkdir(outputDir, { recursive: true });
         const filename = `combined-${Date.now()}.xml`;
+        const filePath = `${outputDir}/${filename}`;
+
+        // Écrire le fichier XML physiquement
+        await fs.writeFile(filePath, xml, 'utf8');
 
         // Après la génération du XML et l'écriture du fichier
         try {
@@ -161,7 +165,7 @@ router.post('/', async (req, res) => {
                     link: channelConfig.link,
                     language: channelConfig.language,
                     nbr_items: channelConfig.itemsLimit,
-                    filename: filename,
+                    filename: filename, // Ajout du nom de fichier
                     created_at: new Date().toISOString() // Ajouter explicitement la date de création
                 })
                 .select();
